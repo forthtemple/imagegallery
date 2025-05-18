@@ -1,0 +1,317 @@
+@import "variables";
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.search-gallery {
+    max-width: 1200px;
+    margin: 0 auto;
+    &__search {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap-reverse;
+        max-width: 1050px;
+        margin: 20px auto 0px auto;
+        padding-left:2%;
+        padding-right:2%;
+        &__dropdowns {
+            align-items: center;
+            justify-content: center;
+            padding-top:15px;
+            span {
+                -webkit-transition: .5s;
+                transition: .5s;
+                border: 2px solid $primary;
+                border-radius: 5px;
+                font-size: .8125rem;
+                padding: 5px 8px 3px;
+                background: $white;
+                color: $primary;
+                text-decoration: none;
+            }
+            span:hover {
+                background: $primary;
+                color: $white;
+                cursor: pointer;
+            }
+            select {
+                height: 26px;
+                font-size: 14px;
+                margin-left: 15px;
+                background-color: $white;
+                color: $black;
+                border-radius: 5px;
+            }
+        }
+        &__search-field {
+            padding-top:15px;
+            align-items: center;
+            justify-content: center;
+            max-width:400px;
+            input {
+                outline: none;
+                font-size:12px;
+                padding:2px;
+                padding-left:0px;
+                width: 100%;
+                border-bottom:2px solid $med-gray;
+                border-top:none;
+                border-left:none;
+                border-right:none;
+            }
+        }
+    }
+    &__gallery {
+        display: none;
+        flex-wrap: wrap;
+        justify-content: center;
+        &__element {
+            margin:10px;
+            opacity: 0;
+            animation: fadeIn ease 1000ms forwards;
+            max-width: 250px;
+            position: relative;
+            &__icon {
+                position: absolute !important;
+                font-size:1em;
+                top: 2%;
+                left: 2%;
+                color: $primary;
+                background: $black;
+                color: $white;
+                padding: 5px;
+                border-radius: 5px;
+            ;
+            }
+            &__image {    
+                border-radius: 5px;
+                min-width: 245px;
+                height: 165px;
+                overflow: hidden;
+                img {
+                    width: 100%;
+                    height: 100%;
+                    overflow: hidden;
+                    -o-object-fit: contain;
+                    object-fit: cover;
+                    border-radius: 5px;
+                }
+            }
+            &__image:hover {
+                // border:2px solid $primary;
+                cursor: pointer;
+                -webkit-box-shadow: 0px 0px 9px 2px rgba(0,0,0,0.4); 
+                box-shadow: 0px 0px 9px 2px rgba(0,0,0,0.4);
+            }
+            &__title {
+                h3 {
+                    margin: 5px 5px 5px 0px;
+                }
+            }
+            &__description {
+                &__types {
+                    display:flex;
+                    margin-top:5px;
+                    &__type span {
+                        margin-right:10px;
+                        border:1px solid $lighter-gray;
+                        border-radius: 5px;
+                        padding: 3px;
+                    }
+                    &__type.primary span {
+                        background-color: $primary;
+                        color:$white;
+                    }
+                    &__type.secondary span {
+                        background-color: $secondary;
+                        color:$white;
+                    }
+                }
+            }
+        }
+    }
+    &__modal {
+        padding:20px;
+        border-radius: 5px;
+        background-color: $white;
+        z-index: 20;
+        position: fixed;
+        width: 40%;
+        top: 14%;
+        left: 29.5%;
+        overflow: none;
+        display: none;
+        -webkit-box-shadow: 0px 0px 25px 6px rgba(0,0,0,0.45); 
+        box-shadow: 0px 0px 25px 6px rgba(0,0,0,0.45);
+        &__close {
+            position: relative;
+            &__close-button {  
+                -webkit-transition: .5s;
+                transition: .5s;  
+                position: absolute;
+                color: $white;
+                border: 2px solid $white;
+                background-color: $primary;
+                font-weight: bold;
+                font-size: 1.5em;
+                padding: 1px 30px;
+                border-radius: 20px;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -107%);
+                -webkit-box-shadow: 0px 0px 9px 2px rgba(0,0,0,0.4); 
+                box-shadow: 0px 0px 9px 2px rgba(0,0,0,0.4);
+            }
+            &__close-button:hover {
+                cursor: pointer;
+                color: $primary;
+                border: 2px solid $primary;
+                background-color: $white;
+            }
+        }
+        &__title {
+            font-size: 2em;
+            font-weight: bold;
+            vertical-align: bottom;
+        }
+        &__slideshow {
+            position: relative;
+            &__count {
+                position: absolute;
+                top: 5%;
+                font-size: 2em;
+                left: 2%;
+                text-shadow: 0px 0px 7px rgb(15, 15, 15);
+                color: $white;
+            }
+            &__arrows {
+                position:absolute;
+                z-index: 200;
+                width: 100%;
+                top: 45%;
+                font-size: 3em;
+                display:flex;
+                justify-content: space-between;
+                &__arrow {
+                    padding:10px;
+                    color:$white;
+                    text-shadow: 0px 0px 7px rgb(15, 15, 15);
+                }
+                &__arrow:hover {
+                    cursor: pointer;
+                    color: $primary;
+                }
+            }
+            &__slide {
+                z-index: 1;
+                img {    
+                    margin: 10px 0px;
+                    width: 100%;
+                    border-radius: 10px;
+                    -o-object-fit: cover;
+                    object-fit: contain;
+                    overflow: hidden;
+                    /* height: auto; */
+                    max-height: 400px;
+                }
+            }
+
+        }
+        &__description {
+            flex: 100%;
+        }
+    } 
+}
+
+.active {
+    background: $primary !important;
+    color: $white !important;
+}
+
+.show {
+    display: block;
+}
+
+.hidden {
+    display: none !important;
+}
+.showModal {
+    display: block;
+}
+
+@keyframes fadeIn {
+    0% {
+    opacity: 0;
+    }
+    
+    100% {
+    opacity: 1;
+    }
+}
+
+//Header CSS
+#outerTable {
+    border-spacing: initial;
+}
+
+.header {
+    width: 100%;
+    color:$black;
+    margin:0;
+    h1 {
+        margin:0;
+        padding:15px;
+    }
+    &__wrap {
+        margin: 0 auto;
+        max-width: 1100px;
+        display: flex;
+        justify-content: space-between;
+        &__buttons {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+    }
+}
+
+// Loading Icon
+#loader {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    height: 500px;
+}
+
+.loader {
+    border: 16px solid $light-gray;
+    border-radius: 50%;
+    border-top: 16px solid $primary;
+    width: 120px;
+    height: 120px;
+    -webkit-animation: spin 2s linear infinite;
+    animation: spin 2s linear infinite;
+}
+
+@-webkit-keyframes spin {
+    0% {
+    -webkit-transform: rotate(0deg);
+    }
+
+    100% {
+    -webkit-transform: rotate(360deg);
+    }
+}
+
+@keyframes spin {
+    0% {
+    transform: rotate(0deg);
+    }
+
+    100% {
+    transform: rotate(360deg);
+    }
+}
+  //End Loader CSS

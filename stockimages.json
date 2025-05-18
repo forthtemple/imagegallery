@@ -1,0 +1,4572 @@
+[
+    {
+        "sentence": "A smiling businessman shaking hands with a colleague",
+        "tags": [
+            "businessman",
+            "handshake",
+            "colleague",
+            "business",
+            "agreement"
+        ],
+        "image": "stockimages/1.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A businessman shaking hands with a colleague in a modern office",
+        "tags": [
+            "businessman",
+            "handshake",
+            "colleague",
+            "office",
+            "professional"
+        ],
+        "image": "stockimages/2.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A businessman shaking hands with a colleague in a modern office",
+        "tags": [
+            "businessman",
+            "handshake",
+            "colleague",
+            "office",
+            "professional"
+        ],
+        "image": "stockimages/3.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A smiling businessman shaking hands with a colleague",
+        "tags": [
+            "businessman",
+            "handshake",
+            "colleague",
+            "business",
+            "agreement"
+        ],
+        "image": "stockimages/4.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A cheerful barista preparing a latte in a cozy coffee shop",
+        "tags": [
+            "barista",
+            "latte",
+            "coffee shop",
+            "cozy"
+        ],
+        "image": "stockimages/5.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A cheerful gardener watering vibrant flowers in a sunny garden",
+        "tags": [
+            "gardener",
+            "flowers",
+            "garden",
+            "watering",
+            "sunny"
+        ],
+        "image": "stockimages/6.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A cheerful baker kneading dough in a cozy kitchen",
+        "tags": [
+            "baker",
+            "kneading",
+            "dough",
+            "kitchen",
+            "baking"
+        ],
+        "image": "stockimages/7.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A cheerful gardener watering vibrant flowers in a sunny garden",
+        "tags": [
+            "gardener",
+            "flowers",
+            "garden",
+            "watering",
+            "sunny"
+        ],
+        "image": "stockimages/8.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A happy family building a sandcastle on the beach",
+        "tags": [
+            "family",
+            "beach",
+            "sandcastle",
+            "happy",
+            "vacation"
+        ],
+        "image": "stockimages/9.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A joyful toddler splashing in a puddle after rain",
+        "tags": [
+            "toddler",
+            "rain",
+            "puddle",
+            "joyful"
+        ],
+        "image": "stockimages/10.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A cheerful barista pouring latte art into a coffee cup",
+        "tags": [
+            "barista",
+            "latte art",
+            "coffee",
+            "cafe"
+        ],
+        "image": "stockimages/11.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A businessman walking confidently with a briefcase in a city street",
+        "tags": [
+            "businessman",
+            "briefcase",
+            "city",
+            "street",
+            "confidence"
+        ],
+        "image": "stockimages/12.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A businessman sitting on a park bench using a laptop",
+        "tags": [
+            "businessman",
+            "laptop",
+            "park",
+            "bench",
+            "outdoor",
+            "work"
+        ],
+        "image": "stockimages/13.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A smiling barista pouring coffee into a cup at a cozy cafe",
+        "tags": [
+            "barista",
+            "coffee",
+            "cafe",
+            "smile"
+        ],
+        "image": "stockimages/14.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A cheerful barista pouring coffee into a mug",
+        "tags": [
+            "barista",
+            "coffee",
+            "mug",
+            "cafe"
+        ],
+        "image": "stockimages/15.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A smiling barista handing over a cup of coffee",
+        "tags": [
+            "barista",
+            "coffee",
+            "cafe",
+            "smiling",
+            "customer service"
+        ],
+        "image": "stockimages/16.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A determined athlete crossing the finish line",
+        "tags": [
+            "athlete",
+            "finish line",
+            "running",
+            "determination",
+            "race"
+        ],
+        "image": "stockimages/17.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A cheerful barista pouring coffee into a cup at a cozy cafe",
+        "tags": [
+            "barista",
+            "coffee",
+            "cafe",
+            "cozy"
+        ],
+        "image": "stockimages/18.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A group of friends laughing together during a picnic in a sunny park",
+        "tags": [
+            "friends",
+            "picnic",
+            "park",
+            "laughing",
+            "sunny"
+        ],
+        "image": "stockimages/19.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A focused software developer coding on a laptop in a modern office",
+        "tags": [
+            "software developer",
+            "coding",
+            "laptop",
+            "office",
+            "modern"
+        ],
+        "image": "stockimages/20.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A happy family building a sandcastle on a sunny beach",
+        "tags": [
+            "family",
+            "sandcastle",
+            "beach",
+            "sunny",
+            "happy"
+        ],
+        "image": "stockimages/21.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A determined athlete running on a track at sunrise",
+        "tags": [
+            "athlete",
+            "running",
+            "track",
+            "sunrise",
+            "determined"
+        ],
+        "image": "stockimages/22.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A group of friends hiking on a scenic mountain trail",
+        "tags": [
+            "hiking",
+            "friends",
+            "mountain",
+            "nature"
+        ],
+        "image": "stockimages/23.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A focused programmer coding on a laptop in a modern office",
+        "tags": [
+            "programmer",
+            "coding",
+            "laptop",
+            "office"
+        ],
+        "image": "stockimages/24.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A cyclist riding through a scenic forest path at sunrise",
+        "tags": [
+            "cyclist",
+            "forest",
+            "path",
+            "sunrise",
+            "cycling"
+        ],
+        "image": "stockimages/25.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A chef garnishing a gourmet dish in a professional kitchen",
+        "tags": [
+            "chef",
+            "gourmet",
+            "dish",
+            "kitchen",
+            "cooking"
+        ],
+        "image": "stockimages/26.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A young student reading a book under a tree in a peaceful park",
+        "tags": [
+            "student",
+            "reading",
+            "book",
+            "park",
+            "tree"
+        ],
+        "image": "stockimages/27.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A veterinarian examining a cute puppy in a clinic",
+        "tags": [
+            "veterinarian",
+            "puppy",
+            "clinic",
+            "pet",
+            "animal care"
+        ],
+        "image": "stockimages/28.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A street musician playing the guitar in a bustling city square",
+        "tags": [
+            "street musician",
+            "guitar",
+            "city square",
+            "performance",
+            "urban"
+        ],
+        "image": "stockimages/29.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A fitness trainer guiding a group during an outdoor boot camp",
+        "tags": [
+            "fitness trainer",
+            "boot camp",
+            "outdoor",
+            "exercise",
+            "group"
+        ],
+        "image": "stockimages/30.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A photographer capturing a stunning sunset over a lake",
+        "tags": [
+            "photographer",
+            "sunset",
+            "lake",
+            "photography",
+            "nature"
+        ],
+        "image": "stockimages/31.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A baker decorating a colorful birthday cake in a cozy bakery",
+        "tags": [
+            "baker",
+            "birthday cake",
+            "bakery",
+            "decorating",
+            "dessert"
+        ],
+        "image": "stockimages/32.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A couple enjoying a romantic picnic in a meadow with wildflowers",
+        "tags": [
+            "couple",
+            "picnic",
+            "meadow",
+            "wildflowers",
+            "romantic"
+        ],
+        "image": "stockimages/33.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A construction worker wearing a hard hat inspecting blueprints on a building site",
+        "tags": [
+            "construction worker",
+            "hard hat",
+            "blueprints",
+            "building site",
+            "construction"
+        ],
+        "image": "stockimages/34.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A teacher explaining a lesson to students in a bright classroom",
+        "tags": [
+            "teacher",
+            "students",
+            "classroom",
+            "lesson",
+            "education"
+        ],
+        "image": "stockimages/35.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A surfer riding a large wave at a tropical beach",
+        "tags": [
+            "surfer",
+            "wave",
+            "tropical beach",
+            "surfing",
+            "ocean"
+        ],
+        "image": "stockimages/36.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A scientist examining a test tube in a high-tech laboratory",
+        "tags": [
+            "scientist",
+            "test tube",
+            "laboratory",
+            "research",
+            "science"
+        ],
+        "image": "stockimages/37.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A florist arranging a vibrant bouquet of flowers in a shop",
+        "tags": [
+            "florist",
+            "bouquet",
+            "flowers",
+            "shop",
+            "floral design"
+        ],
+        "image": "stockimages/38.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A jogger running along a scenic riverside path at dawn",
+        "tags": [
+            "jogger",
+            "running",
+            "riverside",
+            "path",
+            "dawn"
+        ],
+        "image": "stockimages/39.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A painter creating a colorful mural on an urban wall",
+        "tags": [
+            "painter",
+            "mural",
+            "urban",
+            "wall",
+            "art"
+        ],
+        "image": "stockimages/40.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A group of volunteers cleaning up a park on a sunny day",
+        "tags": [
+            "volunteers",
+            "cleaning",
+            "park",
+            "sunny day",
+            "community"
+        ],
+        "image": "stockimages/41.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A fisherman casting a line from a wooden boat on a calm lake",
+        "tags": [
+            "fisherman",
+            "fishing",
+            "boat",
+            "lake",
+            "calm"
+        ],
+        "image": "stockimages/42.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A yoga instructor leading a class in a serene outdoor setting",
+        "tags": [
+            "yoga instructor",
+            "yoga class",
+            "outdoor",
+            "serene",
+            "wellness"
+        ],
+        "image": "stockimages/43.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A mechanic working on a car engine in a busy garage",
+        "tags": [
+            "mechanic",
+            "car engine",
+            "garage",
+            "repair",
+            "automotive"
+        ],
+        "image": "stockimages/44.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A child flying a colorful kite in an open field on a windy day",
+        "tags": [
+            "child",
+            "kite",
+            "open field",
+            "windy day",
+            "outdoor fun"
+        ],
+        "image": "stockimages/45.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A barbershop owner giving a stylish haircut to a client",
+        "tags": [
+            "barber",
+            "haircut",
+            "barbershop",
+            "client",
+            "grooming"
+        ],
+        "image": "stockimages/46.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A group of tourists taking a selfie in front of a famous landmark",
+        "tags": [
+            "tourists",
+            "selfie",
+            "landmark",
+            "travel",
+            "group"
+        ],
+        "image": "stockimages/47.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A librarian organizing books on a shelf in a quiet library",
+        "tags": [
+            "librarian",
+            "books",
+            "shelf",
+            "library",
+            "quiet"
+        ],
+        "image": "stockimages/48.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A skateboarder performing a trick in an urban skate park",
+        "tags": [
+            "skateboarder",
+            "trick",
+            "skate park",
+            "urban",
+            "extreme sports"
+        ],
+        "image": "stockimages/49.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A farmer harvesting ripe vegetables in a sunny field",
+        "tags": [
+            "farmer",
+            "harvesting",
+            "vegetables",
+            "field",
+            "sunny"
+        ],
+        "image": "stockimages/50.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A couple dancing under string lights at an outdoor wedding",
+        "tags": [
+            "couple",
+            "dancing",
+            "string lights",
+            "outdoor wedding",
+            "romance"
+        ],
+        "image": "stockimages/51.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A delivery person handing a package to a customer at their doorstep",
+        "tags": [
+            "delivery person",
+            "package",
+            "customer",
+            "doorstep",
+            "service"
+        ],
+        "image": "stockimages/52.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A street vendor selling fresh fruits at a lively market",
+        "tags": [
+            "street vendor",
+            "fresh fruits",
+            "market",
+            "lively",
+            "food"
+        ],
+        "image": "stockimages/53.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A hiker standing on a cliff overlooking a vast canyon at sunset",
+        "tags": [
+            "hiker",
+            "cliff",
+            "canyon",
+            "sunset",
+            "nature"
+        ],
+        "image": "stockimages/54.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A makeup artist applying cosmetics to a model before a photoshoot",
+        "tags": [
+            "makeup artist",
+            "cosmetics",
+            "model",
+            "photoshoot",
+            "beauty"
+        ],
+        "image": "stockimages/55.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A group of children playing soccer on a grassy field",
+        "tags": [
+            "children",
+            "soccer",
+            "grassy field",
+            "playing",
+            "sports"
+        ],
+        "image": "stockimages/56.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A tailor measuring fabric for a custom suit in a workshop",
+        "tags": [
+            "tailor",
+            "fabric",
+            "custom suit",
+            "workshop",
+            "fashion"
+        ],
+        "image": "stockimages/57.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A kayaker paddling through calm waters surrounded by misty mountains",
+        "tags": [
+            "kayaker",
+            "paddling",
+            "calm waters",
+            "misty mountains",
+            "adventure"
+        ],
+        "image": "stockimages/58.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A barman mixing a cocktail behind a stylish bar counter",
+        "tags": [
+            "barman",
+            "cocktail",
+            "bar counter",
+            "mixing",
+            "drinks"
+        ],
+        "image": "stockimages/59.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A senior couple walking hand in hand along a quiet beach at sunrise",
+        "tags": [
+            "senior couple",
+            "walking",
+            "beach",
+            "sunrise",
+            "romance"
+        ],
+        "image": "stockimages/60.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A graphic designer sketching ideas on a tablet in a creative studio",
+        "tags": [
+            "graphic designer",
+            "sketching",
+            "tablet",
+            "creative studio",
+            "design"
+        ],
+        "image": "stockimages/61.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A dog walker managing multiple dogs on leashes in a city park",
+        "tags": [
+            "dog walker",
+            "dogs",
+            "leashes",
+            "city park",
+            "pets"
+        ],
+        "image": "stockimages/62.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A street artist painting a vibrant portrait on a public sidewalk",
+        "tags": [
+            "street artist",
+            "painting",
+            "portrait",
+            "sidewalk",
+            "urban art"
+        ],
+        "image": "stockimages/63.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A group of coworkers brainstorming ideas on a whiteboard in a modern office",
+        "tags": [
+            "coworkers",
+            "brainstorming",
+            "whiteboard",
+            "modern office",
+            "teamwork"
+        ],
+        "image": "stockimages/64.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A snowboarder carving through fresh powder on a snowy mountain slope",
+        "tags": [
+            "snowboarder",
+            "snow",
+            "mountain slope",
+            "winter sports",
+            "adventure"
+        ],
+        "image": "stockimages/65.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A potter shaping clay on a wheel in a rustic studio",
+        "tags": [
+            "potter",
+            "clay",
+            "wheel",
+            "rustic studio",
+            "craft"
+        ],
+        "image": "stockimages/66.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A group of friends roasting marshmallows over a campfire at night",
+        "tags": [
+            "friends",
+            "roasting marshmallows",
+            "campfire",
+            "night",
+            "camping"
+        ],
+        "image": "stockimages/67.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A flight attendant assisting a passenger on a plane",
+        "tags": [
+            "flight attendant",
+            "passenger",
+            "plane",
+            "assistance",
+            "travel"
+        ],
+        "image": "stockimages/68.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A wildlife photographer capturing an elephant in a savanna",
+        "tags": [
+            "wildlife photographer",
+            "elephant",
+            "savanna",
+            "photography",
+            "nature"
+        ],
+        "image": "stockimages/69.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A group of students collaborating on a science project in a lab",
+        "tags": [
+            "students",
+            "science project",
+            "lab",
+            "collaboration",
+            "education"
+        ],
+        "image": "stockimages/70.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A barista steaming milk for a cappuccino in a trendy cafe",
+        "tags": [
+            "barista",
+            "steaming milk",
+            "cappuccino",
+            "trendy cafe",
+            "coffee"
+        ],
+        "image": "stockimages/71.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A couple enjoying a scenic hot air balloon ride at sunrise",
+        "tags": [
+            "couple",
+            "hot air balloon",
+            "sunrise",
+            "scenic",
+            "romance"
+        ],
+        "image": "stockimages/72.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A personal trainer spotting a client lifting weights in a gym",
+        "tags": [
+            "personal trainer",
+            "client",
+            "weights",
+            "gym",
+            "fitness"
+        ],
+        "image": "stockimages/73.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A street magician performing a card trick for an amazed crowd",
+        "tags": [
+            "street magician",
+            "card trick",
+            "crowd",
+            "performance",
+            "magic"
+        ],
+        "image": "stockimages/74.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A family decorating a Christmas tree together in a cozy living room",
+        "tags": [
+            "family",
+            "Christmas tree",
+            "decorating",
+            "living room",
+            "holiday"
+        ],
+        "image": "stockimages/75.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A gardener pruning roses in a beautifully landscaped backyard",
+        "tags": [
+            "gardener",
+            "pruning",
+            "roses",
+            "backyard",
+            "landscaping"
+        ],
+        "image": "stockimages/76.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A surfer carrying a board while walking toward the ocean at sunset",
+        "tags": [
+            "surfer",
+            "surfboard",
+            "ocean",
+            "sunset",
+            "beach"
+        ],
+        "image": "stockimages/77.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A group of friends playing beach volleyball under the sun",
+        "tags": [
+            "friends",
+            "beach volleyball",
+            "sun",
+            "beach",
+            "sports"
+        ],
+        "image": "stockimages/78.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A baker icing a batch of freshly made cupcakes in a bright kitchen",
+        "tags": [
+            "baker",
+            "icing",
+            "cupcakes",
+            "kitchen",
+            "baking"
+        ],
+        "image": "stockimages/79.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A cyclist speeding down a winding mountain road at dawn",
+        "tags": [
+            "cyclist",
+            "mountain road",
+            "dawn",
+            "cycling",
+            "adventure"
+        ],
+        "image": "stockimages/80.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A teacher reading a storybook to young children in a colorful classroom",
+        "tags": [
+            "teacher",
+            "storybook",
+            "children",
+            "classroom",
+            "education"
+        ],
+        "image": "stockimages/81.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A fisherman repairing nets on a dock by the seaside",
+        "tags": [
+            "fisherman",
+            "repairing nets",
+            "dock",
+            "seaside",
+            "work"
+        ],
+        "image": "stockimages/82.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A group of tourists exploring an ancient ruin under a clear blue sky",
+        "tags": [
+            "tourists",
+            "ancient ruin",
+            "blue sky",
+            "exploring",
+            "travel"
+        ],
+        "image": "stockimages/83.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A street food vendor grilling skewers at a bustling night market",
+        "tags": [
+            "street food vendor",
+            "grilling",
+            "skewers",
+            "night market",
+            "food"
+        ],
+        "image": "stockimages/84.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A young artist sketching a cityscape from a rooftop at sunset",
+        "tags": [
+            "artist",
+            "sketching",
+            "cityscape",
+            "rooftop",
+            "sunset"
+        ],
+        "image": "stockimages/85.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A couple enjoying a quiet moment on a park bench surrounded by autumn leaves",
+        "tags": [
+            "couple",
+            "park bench",
+            "autumn leaves",
+            "quiet moment",
+            "romance"
+        ],
+        "image": "stockimages/86.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A veterinarian cuddling a kitten during a check-up at a clinic",
+        "tags": [
+            "veterinarian",
+            "kitten",
+            "check-up",
+            "clinic",
+            "animal care"
+        ],
+        "image": "stockimages/87.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A group of runners stretching before a marathon in a city park",
+        "tags": [
+            "runners",
+            "stretching",
+            "marathon",
+            "city park",
+            "fitness"
+        ],
+        "image": "stockimages/88.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A chef tossing pizza dough in a bustling Italian restaurant kitchen",
+        "tags": [
+            "chef",
+            "pizza dough",
+            "Italian restaurant",
+            "kitchen",
+            "cooking"
+        ],
+        "image": "stockimages/89.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A hiker sipping water while resting on a rocky mountain summit",
+        "tags": [
+            "hiker",
+            "water",
+            "resting",
+            "mountain summit",
+            "adventure"
+        ],
+        "image": "stockimages/90.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A florist creating a stunning wedding bouquet in a flower shop",
+        "tags": [
+            "florist",
+            "wedding bouquet",
+            "flower shop",
+            "flowers",
+            "wedding"
+        ],
+        "image": "stockimages/91.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A group of children flying colorful kites on a windy hilltop",
+        "tags": [
+            "children",
+            "kites",
+            "windy",
+            "hilltop",
+            "outdoor fun"
+        ],
+        "image": "stockimages/92.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A photographer adjusting camera settings while shooting in a forest",
+        "tags": [
+            "photographer",
+            "camera",
+            "forest",
+            "shooting",
+            "nature"
+        ],
+        "image": "stockimages/93.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A couple sharing a warm drink by a fireplace on a snowy evening",
+        "tags": [
+            "couple",
+            "warm drink",
+            "fireplace",
+            "snowy evening",
+            "cozy"
+        ],
+        "image": "stockimages/94.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A street performer juggling colorful balls in a crowded city square",
+        "tags": [
+            "street performer",
+            "juggling",
+            "colorful balls",
+            "city square",
+            "entertainment"
+        ],
+        "image": "stockimages/95.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A family carving pumpkins together on a porch for Halloween",
+        "tags": [
+            "family",
+            "carving pumpkins",
+            "porch",
+            "Halloween",
+            "holiday"
+        ],
+        "image": "stockimages/96.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A scientist observing a microscope slide in a bright laboratory",
+        "tags": [
+            "scientist",
+            "microscope",
+            "slide",
+            "laboratory",
+            "research"
+        ],
+        "image": "stockimages/97.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A group of friends enjoying a barbecue party in a sunny backyard",
+        "tags": [
+            "friends",
+            "barbecue",
+            "party",
+            "backyard",
+            "sunny"
+        ],
+        "image": "stockimages/98.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A yoga practitioner meditating on a cliff overlooking the ocean at sunrise",
+        "tags": [
+            "yoga",
+            "meditating",
+            "cliff",
+            "ocean",
+            "sunrise"
+        ],
+        "image": "stockimages/99.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A construction worker operating heavy machinery at a building site",
+        "tags": [
+            "construction worker",
+            "heavy machinery",
+            "building site",
+            "construction",
+            "work"
+        ],
+        "image": "stockimages/100.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A couple strolling through a vineyard holding hands at sunset",
+        "tags": [
+            "couple",
+            "vineyard",
+            "holding hands",
+            "sunset",
+            "romance"
+        ],
+        "image": "stockimages/101.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A barista crafting intricate latte art in a bustling coffee shop",
+        "tags": [
+            "barista",
+            "latte art",
+            "coffee shop",
+            "bustling",
+            "coffee"
+        ],
+        "image": "stockimages/102.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A group of volunteers planting trees in a community park",
+        "tags": [
+            "volunteers",
+            "planting trees",
+            "community park",
+            "environment",
+            "teamwork"
+        ],
+        "image": "stockimages/103.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A painter adding final touches to a canvas in a sunlit studio",
+        "tags": [
+            "painter",
+            "canvas",
+            "studio",
+            "sunlit",
+            "art"
+        ],
+        "image": "stockimages/104.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A family enjoying a picnic by a lake surrounded by autumn foliage",
+        "tags": [
+            "family",
+            "picnic",
+            "lake",
+            "autumn foliage",
+            "outdoor"
+        ],
+        "image": "stockimages/105.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A skateboarder grinding on a rail in a vibrant urban skate park",
+        "tags": [
+            "skateboarder",
+            "grinding",
+            "rail",
+            "urban skate park",
+            "extreme sports"
+        ],
+        "image": "stockimages/106.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A farmer feeding chickens on a sunny rural farm",
+        "tags": [
+            "farmer",
+            "chickens",
+            "farm",
+            "sunny",
+            "rural"
+        ],
+        "image": "stockimages/107.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A couple kayaking together on a serene mountain lake",
+        "tags": [
+            "couple",
+            "kayaking",
+            "mountain lake",
+            "serene",
+            "adventure"
+        ],
+        "image": "stockimages/108.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A street musician playing the violin in a charming old town",
+        "tags": [
+            "street musician",
+            "violin",
+            "old town",
+            "charming",
+            "performance"
+        ],
+        "image": "stockimages/109.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A group of coworkers celebrating a successful project with a toast in the office",
+        "tags": [
+            "coworkers",
+            "celebration",
+            "toast",
+            "office",
+            "success"
+        ],
+        "image": "stockimages/110.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A hiker taking a panoramic photo of a mountain range at sunrise",
+        "tags": [
+            "hiker",
+            "panoramic photo",
+            "mountain range",
+            "sunrise",
+            "nature"
+        ],
+        "image": "stockimages/111.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A baker pulling fresh bread out of an oven in a rustic bakery",
+        "tags": [
+            "baker",
+            "fresh bread",
+            "oven",
+            "rustic bakery",
+            "baking"
+        ],
+        "image": "stockimages/112.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A couple enjoying a quiet evening reading books by a window",
+        "tags": [
+            "couple",
+            "reading",
+            "books",
+            "window",
+            "quiet evening"
+        ],
+        "image": "stockimages/113.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A group of children building a snowman in a snowy backyard",
+        "tags": [
+            "children",
+            "snowman",
+            "snowy backyard",
+            "winter",
+            "fun"
+        ],
+        "image": "stockimages/114.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A personal stylist helping a client choose outfits in a boutique",
+        "tags": [
+            "personal stylist",
+            "client",
+            "outfits",
+            "boutique",
+            "fashion"
+        ],
+        "image": "stockimages/115.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A cyclist riding through a colorful autumn forest path",
+        "tags": [
+            "cyclist",
+            "autumn",
+            "forest path",
+            "colorful",
+            "cycling"
+        ],
+        "image": "stockimages/116.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A chef presenting a beautifully plated dish in a fine dining restaurant",
+        "tags": [
+            "chef",
+            "plated dish",
+            "fine dining",
+            "restaurant",
+            "culinary"
+        ],
+        "image": "stockimages/117.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A group of friends playing board games around a cozy living room table",
+        "tags": [
+            "friends",
+            "board games",
+            "living room",
+            "cozy",
+            "fun"
+        ],
+        "image": "stockimages/118.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A wildlife ranger observing birds through binoculars in a forest",
+        "tags": [
+            "wildlife ranger",
+            "birds",
+            "binoculars",
+            "forest",
+            "nature"
+        ],
+        "image": "stockimages/119.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A young couple painting a room together in their new home",
+        "tags": [
+            "couple",
+            "painting",
+            "room",
+            "new home",
+            "renovation"
+        ],
+        "image": "stockimages/120.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A street dancer performing an energetic routine in a city plaza",
+        "tags": [
+            "street dancer",
+            "energetic routine",
+            "city plaza",
+            "performance",
+            "dance"
+        ],
+        "image": "stockimages/121.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A group of tourists admiring a waterfall in a tropical jungle",
+        "tags": [
+            "tourists",
+            "waterfall",
+            "tropical jungle",
+            "admiring",
+            "travel"
+        ],
+        "image": "stockimages/122.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A librarian helping a student find a book in a quiet library",
+        "tags": [
+            "librarian",
+            "student",
+            "book",
+            "library",
+            "quiet"
+        ],
+        "image": "stockimages/123.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A surfer waxing a board on a sandy beach before heading into the waves",
+        "tags": [
+            "surfer",
+            "waxing board",
+            "sandy beach",
+            "waves",
+            "surfing"
+        ],
+        "image": "stockimages/124.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A family gathering around a campfire telling stories under the stars",
+        "tags": [
+            "family",
+            "campfire",
+            "stories",
+            "under the stars",
+            "camping"
+        ],
+        "image": "stockimages/125.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A fitness enthusiast doing push-ups on a gym mat at sunrise",
+        "tags": [
+            "fitness enthusiast",
+            "push-ups",
+            "gym mat",
+            "sunrise",
+            "exercise"
+        ],
+        "image": "stockimages/126.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A street vendor selling handmade jewelry at a colorful market",
+        "tags": [
+            "street vendor",
+            "handmade jewelry",
+            "colorful market",
+            "crafts",
+            "shopping"
+        ],
+        "image": "stockimages/127.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A couple enjoying a scenic bike ride through a countryside lane",
+        "tags": [
+            "couple",
+            "bike ride",
+            "countryside",
+            "scenic",
+            "romance"
+        ],
+        "image": "stockimages/128.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A group of friends cheering while watching a sports game on TV",
+        "tags": [
+            "friends",
+            "cheering",
+            "sports game",
+            "TV",
+            "entertainment"
+        ],
+        "image": "stockimages/129.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A photographer capturing a close-up of a vibrant butterfly in a garden",
+        "tags": [
+            "photographer",
+            "butterfly",
+            "close-up",
+            "garden",
+            "nature"
+        ],
+        "image": "stockimages/130.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A family decorating gingerbread houses together during the holidays",
+        "tags": [
+            "family",
+            "gingerbread houses",
+            "decorating",
+            "holidays",
+            "festive"
+        ],
+        "image": "stockimages/131.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A hiker crossing a wooden bridge over a rushing river in the mountains",
+        "tags": [
+            "hiker",
+            "wooden bridge",
+            "rushing river",
+            "mountains",
+            "adventure"
+        ],
+        "image": "stockimages/132.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A street artist drawing a caricature for a tourist in a lively square",
+        "tags": [
+            "street artist",
+            "caricature",
+            "tourist",
+            "lively square",
+            "art"
+        ],
+        "image": "stockimages/133.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A couple enjoying a cozy breakfast in bed on a lazy morning",
+        "tags": [
+            "couple",
+            "breakfast in bed",
+            "cozy",
+            "lazy morning",
+            "romance"
+        ],
+        "image": "stockimages/134.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A group of students conducting a chemistry experiment in a school lab",
+        "tags": [
+            "students",
+            "chemistry experiment",
+            "school lab",
+            "education",
+            "science"
+        ],
+        "image": "stockimages/135.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A farmer driving a tractor through a golden wheat field at sunset",
+        "tags": [
+            "farmer",
+            "tractor",
+            "wheat field",
+            "sunset",
+            "agriculture"
+        ],
+        "image": "stockimages/136.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A couple watching a movie under a blanket on a rainy evening",
+        "tags": [
+            "couple",
+            "movie",
+            "blanket",
+            "rainy evening",
+            "cozy"
+        ],
+        "image": "stockimages/137.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A wildlife photographer capturing a lion in the African savanna at dusk",
+        "tags": [
+            "wildlife photographer",
+            "lion",
+            "African savanna",
+            "dusk",
+            "nature"
+        ],
+        "image": "stockimages/138.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A group of friends enjoying a sunset boat ride on a calm lake",
+        "tags": [
+            "friends",
+            "sunset",
+            "boat ride",
+            "calm lake",
+            "relaxation"
+        ],
+        "image": "stockimages/139.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A yoga instructor guiding a class on a beach at sunrise",
+        "tags": [
+            "yoga instructor",
+            "class",
+            "beach",
+            "sunrise",
+            "wellness"
+        ],
+        "image": "stockimages/140.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A street food chef flipping burgers at a lively outdoor festival",
+        "tags": [
+            "street food chef",
+            "burgers",
+            "outdoor festival",
+            "lively",
+            "food"
+        ],
+        "image": "stockimages/141.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A couple planting a tree together in their backyard on a sunny day",
+        "tags": [
+            "couple",
+            "planting tree",
+            "backyard",
+            "sunny day",
+            "gardening"
+        ],
+        "image": "stockimages/142.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A group of children playing tag in a sunny meadow",
+        "tags": [
+            "children",
+            "playing tag",
+            "sunny meadow",
+            "outdoor",
+            "fun"
+        ],
+        "image": "stockimages/143.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A barista serving a tray of colorful pastries in a quaint cafe",
+        "tags": [
+            "barista",
+            "pastries",
+            "tray",
+            "quaint cafe",
+            "food"
+        ],
+        "image": "stockimages/144.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A hiker admiring a panoramic view from a snowy mountain peak",
+        "tags": [
+            "hiker",
+            "panoramic view",
+            "snowy mountain peak",
+            "adventure",
+            "nature"
+        ],
+        "image": "stockimages/145.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A couple enjoying a quiet evening stargazing in an open field",
+        "tags": [
+            "couple",
+            "stargazing",
+            "open field",
+            "quiet evening",
+            "romance"
+        ],
+        "image": "stockimages/146.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A street performer playing the drums in a busy urban area",
+        "tags": [
+            "street performer",
+            "drums",
+            "urban area",
+            "busy",
+            "music"
+        ],
+        "image": "stockimages/147.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A family having a water balloon fight in their backyard on a hot day",
+        "tags": [
+            "family",
+            "water balloon fight",
+            "backyard",
+            "hot day",
+            "fun"
+        ],
+        "image": "stockimages/148.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A photographer shooting a vibrant city skyline from a high vantage point",
+        "tags": [
+            "photographer",
+            "city skyline",
+            "vantage point",
+            "vibrant",
+            "urban"
+        ],
+        "image": "stockimages/149.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A group of coworkers having a casual meeting over coffee in a modern cafe",
+        "tags": [
+            "coworkers",
+            "casual meeting",
+            "coffee",
+            "modern cafe",
+            "business"
+        ],
+        "image": "stockimages/150.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A couple enjoying a leisurely walk with their dog in a scenic park",
+        "tags": [
+            "couple",
+            "dog",
+            "leisurely walk",
+            "scenic park",
+            "pets"
+        ],
+        "image": "stockimages/151.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A street artist creating a large-scale chalk drawing on a sidewalk",
+        "tags": [
+            "street artist",
+            "chalk drawing",
+            "sidewalk",
+            "large-scale",
+            "art"
+        ],
+        "image": "stockimages/152.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A family enjoying a day of fishing by a tranquil riverside",
+        "tags": [
+            "family",
+            "fishing",
+            "riverside",
+            "tranquil",
+            "outdoor"
+        ],
+        "image": "stockimages/153.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A barista preparing an espresso shot in a trendy urban coffee shop",
+        "tags": [
+            "barista",
+            "espresso shot",
+            "urban coffee shop",
+            "trendy",
+            "coffee"
+        ],
+        "image": "stockimages/154.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A hiker setting up a tent in a lush forest clearing at dusk",
+        "tags": [
+            "hiker",
+            "tent",
+            "forest clearing",
+            "dusk",
+            "camping"
+        ],
+        "image": "stockimages/155.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A group of friends enjoying a vibrant festival with colorful decorations",
+        "tags": [
+            "friends",
+            "festival",
+            "colorful decorations",
+            "vibrant",
+            "celebration"
+        ],
+        "image": "stockimages/156.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A chef chopping fresh vegetables on a wooden cutting board in a bright kitchen",
+        "tags": [
+            "chef",
+            "chopping vegetables",
+            "cutting board",
+            "bright kitchen",
+            "cooking"
+        ],
+        "image": "stockimages/157.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A couple enjoying a romantic dinner by candlelight on a rooftop",
+        "tags": [
+            "couple",
+            "romantic dinner",
+            "candlelight",
+            "rooftop",
+            "romance"
+        ],
+        "image": "stockimages/158.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A group of children exploring a forest trail with magnifying glasses",
+        "tags": [
+            "children",
+            "forest trail",
+            "magnifying glasses",
+            "exploring",
+            "nature"
+        ],
+        "image": "stockimages/159.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A street musician strumming a ukulele in a quaint village square",
+        "tags": [
+            "street musician",
+            "ukulele",
+            "village square",
+            "quaint",
+            "music"
+        ],
+        "image": "stockimages/160.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A family playing a friendly game of frisbee in a sunny park",
+        "tags": [
+            "family",
+            "frisbee",
+            "sunny park",
+            "friendly game",
+            "outdoor"
+        ],
+        "image": "stockimages/161.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A photographer capturing a flock of birds flying over a serene lake",
+        "tags": [
+            "photographer",
+            "birds",
+            "serene lake",
+            "flying",
+            "nature"
+        ],
+        "image": "stockimages/162.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A couple enjoying a peaceful canoe ride on a misty morning lake",
+        "tags": [
+            "couple",
+            "canoe ride",
+            "misty morning",
+            "lake",
+            "peaceful"
+        ],
+        "image": "stockimages/163.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A street vendor offering freshly squeezed juice at a bustling market",
+        "tags": [
+            "street vendor",
+            "freshly squeezed juice",
+            "bustling market",
+            "drinks",
+            "food"
+        ],
+        "image": "stockimages/164.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A group of friends taking a group selfie on a scenic hiking trail",
+        "tags": [
+            "friends",
+            "group selfie",
+            "scenic hiking trail",
+            "outdoor",
+            "adventure"
+        ],
+        "image": "stockimages/165.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A baker arranging a display of colorful macarons in a pastry shop",
+        "tags": [
+            "baker",
+            "macarons",
+            "display",
+            "pastry shop",
+            "desserts"
+        ],
+        "image": "stockimages/166.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A couple enjoying a quiet picnic under a large oak tree in a park",
+        "tags": [
+            "couple",
+            "picnic",
+            "oak tree",
+            "park",
+            "quiet"
+        ],
+        "image": "stockimages/167.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A street performer doing a mime act in a crowded tourist area",
+        "tags": [
+            "street performer",
+            "mime act",
+            "crowded",
+            "tourist area",
+            "entertainment"
+        ],
+        "image": "stockimages/168.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A family decorating Easter eggs together at a brightly lit kitchen table",
+        "tags": [
+            "family",
+            "Easter eggs",
+            "decorating",
+            "kitchen table",
+            "holiday"
+        ],
+        "image": "stockimages/169.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A hiker enjoying a snack while overlooking a vast desert landscape",
+        "tags": [
+            "hiker",
+            "snack",
+            "desert landscape",
+            "overlooking",
+            "adventure"
+        ],
+        "image": "stockimages/170.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A barista handing a customer a takeaway coffee in a busy urban cafe",
+        "tags": [
+            "barista",
+            "takeaway coffee",
+            "customer",
+            "urban cafe",
+            "busy"
+        ],
+        "image": "stockimages/171.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A group of friends enjoying a campfire sing-along under a starry sky",
+        "tags": [
+            "friends",
+            "campfire",
+            "sing-along",
+            "starry sky",
+            "camping"
+        ],
+        "image": "stockimages/172.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A photographer capturing a vibrant street festival with colorful costumes",
+        "tags": [
+            "photographer",
+            "street festival",
+            "colorful costumes",
+            "vibrant",
+            "culture"
+        ],
+        "image": "stockimages/173.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A couple walking hand in hand through a foggy forest path at dawn",
+        "tags": [
+            "couple",
+            "walking",
+            "foggy forest path",
+            "dawn",
+            "romance"
+        ],
+        "image": "stockimages/174.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A street artist painting a whimsical mural on a brick wall",
+        "tags": [
+            "street artist",
+            "whimsical mural",
+            "brick wall",
+            "painting",
+            "urban art"
+        ],
+        "image": "stockimages/175.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A family enjoying a sunny day flying a drone in an open field",
+        "tags": [
+            "family",
+            "drone",
+            "sunny day",
+            "open field",
+            "technology"
+        ],
+        "image": "stockimages/176.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A chef flambeing a dessert in a high-end restaurant kitchen",
+        "tags": [
+            "chef",
+            "flambe",
+            "dessert",
+            "high-end restaurant",
+            "cooking"
+        ],
+        "image": "stockimages/177.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A couple enjoying a hot chocolate by a window during a snowy storm",
+        "tags": [
+            "couple",
+            "hot chocolate",
+            "window",
+            "snowy storm",
+            "cozy"
+        ],
+        "image": "stockimages/178.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A group of tourists taking a guided tour in a historic castle",
+        "tags": [
+            "tourists",
+            "guided tour",
+            "historic castle",
+            "travel",
+            "history"
+        ],
+        "image": "stockimages/179.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A street musician playing a saxophone in a dimly lit alley at night",
+        "tags": [
+            "street musician",
+            "saxophone",
+            "dimly lit alley",
+            "night",
+            "music"
+        ],
+        "image": "stockimages/180.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A family enjoying a day of apple picking in a sunny orchard",
+        "tags": [
+            "family",
+            "apple picking",
+            "sunny orchard",
+            "outdoor",
+            "harvest"
+        ],
+        "image": "stockimages/181.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A hiker standing on a rocky cliff watching a thunderstorm in the distance",
+        "tags": [
+            "hiker",
+            "rocky cliff",
+            "thunderstorm",
+            "distance",
+            "nature"
+        ],
+        "image": "stockimages/182.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A barista decorating a coffee with a foam heart in a cozy cafe",
+        "tags": [
+            "barista",
+            "coffee",
+            "foam heart",
+            "cozy cafe",
+            "drinks"
+        ],
+        "image": "stockimages/183.jpg",
+        "sentencesrc": "grok"
+    },
+    {
+        "sentence": "A cat wearing glasses sitting on a pile of books",
+        "tags": [
+            "cat",
+            "glasses",
+            "books"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/184.jpg"
+    },
+    {
+        "sentence": "A businessman using a laptop in a busy airport terminal",
+        "tags": [
+            "businessman",
+            "laptop",
+            "airport"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/185.jpg"
+    },
+    {
+        "sentence": "A family having a picnic in a sunny park",
+        "tags": [
+            "family",
+            "picnic",
+            "park",
+            "sunny"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/186.jpg"
+    },
+    {
+        "sentence": "A chef tossing vegetables in a frying pan",
+        "tags": [
+            "chef",
+            "vegetables",
+            "frying pan",
+            "cooking"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/187.jpg"
+    },
+    {
+        "sentence": "A group of friends hiking on a mountain trail",
+        "tags": [
+            "friends",
+            "hiking",
+            "mountain",
+            "trail"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/188.jpg"
+    },
+    {
+        "sentence": "A female artist painting a landscape outdoors",
+        "tags": [
+            "artist",
+            "painting",
+            "landscape",
+            "outdoors",
+            "female"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/189.jpg"
+    },
+    {
+        "sentence": "A dog wearing a superhero cape running in a park",
+        "tags": [
+            "dog",
+            "superhero",
+            "cape",
+            "running",
+            "park"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/190.jpg"
+    },
+    {
+        "sentence": "A scientist examining a plant under a microscope",
+        "tags": [
+            "scientist",
+            "microscope",
+            "plant",
+            "lab"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/191.jpg"
+    },
+    {
+        "sentence": "A couple sipping coffee at a cozy cafe",
+        "tags": [
+            "couple",
+            "coffee",
+            "cafe",
+            "cozy"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/192.jpg"
+    },
+    {
+        "sentence": "An elderly man flying a kite on a beach",
+        "tags": [
+            "elderly",
+            "man",
+            "kite",
+            "beach"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/193.jpg"
+    },
+    {
+        "sentence": "A toddler playing with building blocks on a colorful mat",
+        "tags": [
+            "toddler",
+            "building blocks",
+            "play",
+            "colorful mat"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/194.jpg"
+    },
+    {
+        "sentence": "A yoga instructor leading a class in a serene garden",
+        "tags": [
+            "yoga",
+            "instructor",
+            "class",
+            "serene",
+            "garden"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/195.jpg"
+    },
+    {
+        "sentence": "A gourmet chef plating a dish in a high-end restaurant kitchen",
+        "tags": [
+            "gourmet",
+            "chef",
+            "plating",
+            "restaurant",
+            "kitchen"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/196.jpg"
+    },
+    {
+        "sentence": "A child painting with watercolors at a sunny picnic table",
+        "tags": [
+            "child",
+            "painting",
+            "watercolors",
+            "picnic table",
+            "sunny"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/197.jpg"
+    },
+    {
+        "sentence": "A mechanic working on a car engine in a garage",
+        "tags": [
+            "mechanic",
+            "car",
+            "engine",
+            "garage"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/198.jpg"
+    },
+    {
+        "sentence": "A dancer practicing ballet in a sunlit studio",
+        "tags": [
+            "dancer",
+            "ballet",
+            "practice",
+            "studio",
+            "sunlit"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/199.jpg"
+    },
+    {
+        "sentence": "A barista creating latte art in a bustling coffee shop",
+        "tags": [
+            "barista",
+            "latte art",
+            "coffee shop",
+            "bustling"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/200.jpg"
+    },
+    {
+        "sentence": "A woman meditating by a tranquil lake at sunrise",
+        "tags": [
+            "woman",
+            "meditation",
+            "lake",
+            "sunrise",
+            "tranquil"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/201.jpg"
+    },
+    {
+        "sentence": "A construction worker wearing a hard hat looking at blueprints",
+        "tags": [
+            "construction worker",
+            "hard hat",
+            "blueprints",
+            "construction site"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/202.jpg"
+    },
+    {
+        "sentence": "A happy couple riding bicycles through an autumn forest",
+        "tags": [
+            "couple",
+            "bicycles",
+            "autumn",
+            "forest",
+            "happy"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/203.jpg"
+    },
+    {
+        "sentence": "A teacher conducting an online class from a home office",
+        "tags": [
+            "teacher",
+            "online class",
+            "home office",
+            "virtual learning"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/204.jpg"
+    },
+    {
+        "sentence": "A diver swimming among colorful coral reefs in clear waters",
+        "tags": [
+            "diver",
+            "coral reefs",
+            "swimming",
+            "clear waters",
+            "underwater"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/205.jpg"
+    },
+    {
+        "sentence": "A toddler drawing on a chalkboard with colorful chalk",
+        "tags": [
+            "toddler",
+            "drawing",
+            "chalkboard",
+            "colorful chalk"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/206.jpg"
+    },
+    {
+        "sentence": "An elderly couple dancing in their living room with a record player",
+        "tags": [
+            "elderly couple",
+            "dancing",
+            "living room",
+            "record player"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/207.jpg"
+    },
+    {
+        "sentence": "A college student studying with a laptop and coffee in a library",
+        "tags": [
+            "college student",
+            "studying",
+            "laptop",
+            "coffee",
+            "library"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/208.jpg"
+    },
+    {
+        "sentence": "A firefighter rescuing a kitten from a tree",
+        "tags": [
+            "firefighter",
+            "kitten",
+            "rescue",
+            "tree"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/209.jpg"
+    },
+    {
+        "sentence": "A violinist playing music on a bridge during sunset",
+        "tags": [
+            "violinist",
+            "music",
+            "bridge",
+            "sunset"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/210.jpg"
+    },
+    {
+        "sentence": "A baker decorating cupcakes in a bright kitchen",
+        "tags": [
+            "baker",
+            "decorating",
+            "cupcakes",
+            "kitchen",
+            "baking"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/211.jpg"
+    },
+    {
+        "sentence": "A fisherman casting a line from a boat on a calm lake",
+        "tags": [
+            "fisherman",
+            "casting",
+            "boat",
+            "lake",
+            "calm"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/212.jpg"
+    },
+    {
+        "sentence": "A group of musicians playing instruments in a lively street market",
+        "tags": [
+            "musicians",
+            "instruments",
+            "street market",
+            "lively"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/213.jpg"
+    },
+    {
+        "sentence": "A toddler wearing rain boots splashing in a puddle",
+        "tags": [
+            "toddler",
+            "rain boots",
+            "splashing",
+            "puddle",
+            "rain"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/214.jpg"
+    },
+    {
+        "sentence": "A couple gazing at the stars through a telescope on a hilltop",
+        "tags": [
+            "couple",
+            "stargazing",
+            "telescope",
+            "hilltop",
+            "night"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/215.jpg"
+    },
+    {
+        "sentence": "A florist arranging a bouquet of fresh flowers in a shop",
+        "tags": [
+            "florist",
+            "arranging",
+            "bouquet",
+            "flowers",
+            "shop"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/216.jpg"
+    },
+    {
+        "sentence": "A tech enthusiast using a virtual reality headset in a modern living room",
+        "tags": [
+            "tech enthusiast",
+            "virtual reality",
+            "headset",
+            "living room",
+            "modern"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/217.jpg"
+    },
+    {
+        "sentence": "A young girl blowing bubbles in a sunny backyard",
+        "tags": [
+            "young girl",
+            "bubbles",
+            "sunny",
+            "backyard"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/218.jpg"
+    },
+    {
+        "sentence": "A mountain climber reaching the summit at sunrise",
+        "tags": [
+            "mountain climber",
+            "summit",
+            "sunrise",
+            "achievement"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/219.jpg"
+    },
+    {
+        "sentence": "A gardener planting seedlings in a beautifully arranged flower bed",
+        "tags": [
+            "gardener",
+            "planting",
+            "seedlings",
+            "flower bed",
+            "gardening"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/220.jpg"
+    },
+    {
+        "sentence": "A professional photographer capturing a landscape at golden hour",
+        "tags": [
+            "photographer",
+            "landscape",
+            "golden hour",
+            "photography"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/221.jpg"
+    },
+    {
+        "sentence": "A playful puppy chasing autumn leaves in a park",
+        "tags": [
+            "puppy",
+            "autumn leaves",
+            "chasing",
+            "park",
+            "playful"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/222.jpg"
+    },
+    {
+        "sentence": "A scientist writing complex equations on a glass board",
+        "tags": [
+            "scientist",
+            "equations",
+            "glass board",
+            "academia"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/223.jpg"
+    },
+    {
+        "sentence": "A person knitting a colorful scarf while sitting by a fireplace",
+        "tags": [
+            "knitting",
+            "scarf",
+            "colorful",
+            "fireplace",
+            "cozy"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/224.jpg"
+    },
+    {
+        "sentence": "A surfer riding a wave at sunset",
+        "tags": [
+            "surfer",
+            "surfing",
+            "wave",
+            "sunset",
+            "ocean"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/225.jpg"
+    },
+    {
+        "sentence": "An artist sketching a portrait in a bustling city square",
+        "tags": [
+            "artist",
+            "sketching",
+            "portrait",
+            "city square",
+            "bustling"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/226.jpg"
+    },
+    {
+        "sentence": "A farmer harvesting ripe tomatoes in a sunlit field",
+        "tags": [
+            "farmer",
+            "harvesting",
+            "tomatoes",
+            "field",
+            "sunlit"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/227.jpg"
+    },
+    {
+        "sentence": "An athlete sprinting on a track during a clear morning",
+        "tags": [
+            "athlete",
+            "sprinting",
+            "track",
+            "morning",
+            "exercise"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/228.jpg"
+    },
+    {
+        "sentence": "A baker kneading dough with flour scattered on a wooden table",
+        "tags": [
+            "baker",
+            "kneading dough",
+            "flour",
+            "wooden table",
+            "baking"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/229.jpg"
+    },
+    {
+        "sentence": "A group of children flying kites in an open field",
+        "tags": [
+            "children",
+            "flying kites",
+            "open field",
+            "outdoor play"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/230.jpg"
+    },
+    {
+        "sentence": "A silhouette of a couple holding hands at the beach during sunset",
+        "tags": [
+            "silhouette",
+            "couple",
+            "holding hands",
+            "beach",
+            "sunset"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/231.jpg"
+    },
+    {
+        "sentence": "A playful kitten batting at a ball of yarn on a carpet",
+        "tags": [
+            "kitten",
+            "playing",
+            "ball of yarn",
+            "carpet",
+            "pet"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/232.jpg"
+    },
+    {
+        "sentence": "A woman tossing autumn leaves in the air in a forest",
+        "tags": [
+            "woman",
+            "autumn leaves",
+            "forest",
+            "playful"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/233.jpg"
+    },
+    {
+        "sentence": "A barista pouring steamed milk into a cup to make latte art",
+        "tags": [
+            "barista",
+            "latte art",
+            "coffee",
+            "steamed milk"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/234.jpg"
+    },
+    {
+        "sentence": "A cyclist taking a break on a mountain trail with a scenic view",
+        "tags": [
+            "cyclist",
+            "break",
+            "mountain trail",
+            "scenic view",
+            "outdoor"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/235.jpg"
+    },
+    {
+        "sentence": "A couple painting the walls of their new home together",
+        "tags": [
+            "couple",
+            "painting",
+            "home",
+            "new",
+            "renovation"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/236.jpg"
+    },
+    {
+        "sentence": "A child dressed as a superhero running through a field",
+        "tags": [
+            "child",
+            "superhero costume",
+            "running",
+            "field",
+            "imagination"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/237.jpg"
+    },
+    {
+        "sentence": "A beekeeper inspecting a honeycomb frame in an apiary",
+        "tags": [
+            "beekeeper",
+            "honeycomb",
+            "inspection",
+            "apiary",
+            "bees"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/238.jpg"
+    },
+    {
+        "sentence": "A woman practicing yoga on a cliff overlooking the ocean",
+        "tags": [
+            "woman",
+            "yoga",
+            "cliff",
+            "ocean",
+            "meditation"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/239.jpg"
+    },
+    {
+        "sentence": "A joyful golden retriever playing fetch in a lush green park",
+        "tags": [
+            "golden retriever",
+            "playing fetch",
+            "park",
+            "dog",
+            "happy"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/240.jpg"
+    },
+    {
+        "sentence": "A group of friends roasting marshmallows around a campfire at night",
+        "tags": [
+            "friends",
+            "marshmallows",
+            "campfire",
+            "night",
+            "outdoors"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/241.jpg"
+    },
+    {
+        "sentence": "A scientist in a white coat analyzing data on a large computer screen in a lab",
+        "tags": [
+            "scientist",
+            "data analysis",
+            "computer screen",
+            "lab",
+            "white coat"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/242.jpg"
+    },
+    {
+        "sentence": "A toddler discovering the joy of jumping in rain puddles",
+        "tags": [
+            "toddler",
+            "jumping",
+            "rain",
+            "puddles",
+            "playful"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/243.jpg"
+    },
+    {
+        "sentence": "A musician busking with a guitar on a vibrant city street",
+        "tags": [
+            "musician",
+            "busking",
+            "guitar",
+            "city street",
+            "performance"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/244.jpg"
+    },
+    {
+        "sentence": "A chef preparing sushi rolls in a modern kitchen",
+        "tags": [
+            "chef",
+            "sushi",
+            "preparation",
+            "kitchen",
+            "cooking"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/245.jpg"
+    },
+    {
+        "sentence": "A young woman relaxing in a hammock with a book in a tropical garden",
+        "tags": [
+            "young woman",
+            "hammock",
+            "reading",
+            "tropical garden",
+            "relaxation"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/246.jpg"
+    },
+    {
+        "sentence": "A teenage girl practicing guitar in her bedroom surrounded by posters",
+        "tags": [
+            "teenage girl",
+            "guitar",
+            "bedroom",
+            "posters",
+            "music"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/247.jpg"
+    },
+    {
+        "sentence": "An artist painting a mural on an urban building wall",
+        "tags": [
+            "artist",
+            "painting",
+            "mural",
+            "urban",
+            "street art"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/248.jpg"
+    },
+    {
+        "sentence": "A grandfather teaching his grandson how to fish at a serene lake",
+        "tags": [
+            "grandfather",
+            "grandson",
+            "fishing",
+            "lake",
+            "family"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/249.jpg"
+    },
+    {
+        "sentence": "A mountain biker navigating a rocky trail in a dense forest",
+        "tags": [
+            "mountain biker",
+            "rocky trail",
+            "forest",
+            "adventure",
+            "cycling"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/250.jpg"
+    },
+    {
+        "sentence": "A couple planting a tree in their backyard on a sunny day",
+        "tags": [
+            "couple",
+            "planting",
+            "tree",
+            "backyard",
+            "sunny"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/251.jpg"
+    },
+    {
+        "sentence": "A toddler playing with a digital tablet while sitting on a plush rug",
+        "tags": [
+            "toddler",
+            "digital tablet",
+            "playing",
+            "plush rug",
+            "technology"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/252.jpg"
+    },
+    {
+        "sentence": "An excited dog with its head out of a car window on a road trip",
+        "tags": [
+            "dog",
+            "car",
+            "road trip",
+            "excited",
+            "travel"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/253.jpg"
+    },
+    {
+        "sentence": "A young woman capturing photos of blooming flowers in a botanical garden",
+        "tags": [
+            "young woman",
+            "photography",
+            "flowers",
+            "botanical garden",
+            "spring"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/254.jpg"
+    },
+    {
+        "sentence": "A group of coworkers collaborating on a project in a modern office space",
+        "tags": [
+            "coworkers",
+            "collaboration",
+            "project",
+            "office",
+            "teamwork"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/255.jpg"
+    },
+    {
+        "sentence": "A chef flamb\u00e9ing a dish in a restaurant kitchen",
+        "tags": [
+            "chef",
+            "flamb\u00e9",
+            "cooking",
+            "restaurant",
+            "fire"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/256.jpg"
+    },
+    {
+        "sentence": "A group of hikers setting up tents at a campsite in the mountains",
+        "tags": [
+            "hikers",
+            "tents",
+            "campsite",
+            "mountains",
+            "outdoor"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/257.jpg"
+    },
+    {
+        "sentence": "A young boy flying a remote-controlled airplane in an open field",
+        "tags": [
+            "young boy",
+            "remote-controlled airplane",
+            "outdoor",
+            "open field"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/258.jpg"
+    },
+    {
+        "sentence": "A woman enjoying a hot cup of tea while wrapped in a blanket on a rainy day",
+        "tags": [
+            "woman",
+            "tea",
+            "blanket",
+            "rainy day",
+            "comfort"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/259.jpg"
+    },
+    {
+        "sentence": "A man eating a delicious hamburger",
+        "tags": [
+            "man",
+            "hamburger",
+            "delicious"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/260.jpg"
+    },
+    {
+        "sentence": "A boy eating a delicious hamburger",
+        "tags": [
+            "boy",
+            "hamburger",
+            "delicious"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/261.jpg"
+    },
+    {
+        "sentence": "A woman eating a delicious hamburger",
+        "tags": [
+            "woman",
+            "hamburger",
+            "delicious"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/262.jpg"
+    },
+    {
+        "sentence": "An old man hammering a piece of wood in his shed",
+        "tags": [
+            "old man",
+            "hammering",
+            "wood",
+            "shed"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/263.jpg"
+    },
+    {
+        "sentence": "An angry feminist with purple hair and tatoos",
+        "tags": [
+            "angry",
+            "feminist",
+            "purple hair",
+            "tattoos"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/264.jpg"
+    },
+    {
+        "sentence": "A couple enjoying champagne at a fancy restaurant",
+        "tags": [
+            "couple",
+            "champagne",
+            "fancy restaurant"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/265.jpg"
+    },
+    {
+        "sentence": "A pretty nurse holding a syringe",
+        "tags": [
+            "nurse",
+            "syringe",
+            "pretty"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/266.jpg"
+    },
+    {
+        "sentence": "A sinister nurse holding a syringe",
+        "tags": [
+            "sinister",
+            "nurse",
+            "syringe"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/267.jpg"
+    },
+    {
+        "sentence": "A friendly doctor examining his patient",
+        "tags": [
+            "doctor",
+            "patient",
+            "friendly"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/268.jpg"
+    },
+    {
+        "sentence": "A friendly dentist working on his patients teeth",
+        "tags": [
+            "dentist",
+            "patients",
+            "teeth"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/269.jpg"
+    },
+    {
+        "sentence": "A secretary talking on the phone to a client",
+        "tags": [
+            "secretary",
+            "phone",
+            "client"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/270.jpg"
+    },
+    {
+        "sentence": "A friendly vet examining a dog",
+        "tags": [
+            "vet",
+            "dog",
+            "friendly"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/271.jpg"
+    },
+    {
+        "sentence": "A friendly vet examining a cat",
+        "tags": [
+            "vet",
+            "cat",
+            "friendly"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/272.jpg"
+    },
+    {
+        "sentence": "A farmer chainsawing a dead tree",
+        "tags": [
+            "farmer",
+            "chainsaw",
+            "dead tree"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/273.jpg"
+    },
+    {
+        "sentence": "A cowboy lasooing a bull",
+        "tags": [
+            "cowboy",
+            "lasooing",
+            "bull"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/274.jpg"
+    },
+    {
+        "sentence": "A friendly pilot and copilot flying a plane",
+        "tags": [
+            "pilot",
+            "copilot",
+            "plane",
+            "friendly"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/275.jpg"
+    },
+    {
+        "sentence": "A boyfriend surprising his girlfriend with a box of chocolates",
+        "tags": [
+            "boyfriend",
+            "girlfriend",
+            "chocolates"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/276.jpg"
+    },
+    {
+        "sentence": "A boyfriend and girlfriend enjoying a meal of spaghetti",
+        "tags": [
+            "boyfriend",
+            "girlfriend",
+            "spaghetti",
+            "meal"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/277.jpg"
+    },
+    {
+        "sentence": "A elderly lady tending to her vegetable garden",
+        "tags": [
+            "elderly lady",
+            "vegetable garden"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/278.jpg"
+    },
+    {
+        "sentence": "Two hunters sitting down at a camp fire",
+        "tags": [
+            "hunters",
+            "camp fire"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/279.jpg"
+    },
+    {
+        "sentence": "An astronaut looking out at the earth",
+        "tags": [
+            "astronaut",
+            "earth"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/280.jpg"
+    },
+    {
+        "sentence": "Two astronauts in a spaceship looking at mars",
+        "tags": [
+            "astronauts",
+            "spaceship",
+            "mars"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/281.jpg"
+    },
+    {
+        "sentence": "A dog licking its owners face",
+        "tags": [
+            "dog",
+            "owner",
+            "face"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/282.jpg"
+    },
+    {
+        "sentence": "A cat on its owners lap",
+        "tags": [
+            "cat",
+            "owner",
+            "lap"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/283.jpg"
+    },
+    {
+        "sentence": "A baseball player hitting a baseball",
+        "tags": [
+            "baseball player",
+            "baseball",
+            "hitting"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/284.jpg"
+    },
+    {
+        "sentence": "A volleyball player tapping a volleyball over the net towards her opponents",
+        "tags": [
+            "volleyball player",
+            "volleyball",
+            "net",
+            "opponents"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/285.jpg"
+    },
+    {
+        "sentence": "Two skiiers taking a ride on a lift up the mountian",
+        "tags": [
+            "skiiers",
+            "lift",
+            "mountain"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/286.jpg"
+    },
+    {
+        "sentence": "A beginner skiier doing the snowplow skiing down a hill",
+        "tags": [
+            "beginner",
+            "skiier",
+            "snowplow",
+            "skiing",
+            "hill"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/287.jpg"
+    },
+    {
+        "sentence": "A snowboarder doing a radical jump in the air",
+        "tags": [
+            "snowboarder",
+            "jump",
+            "air"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/288.jpg"
+    },
+    {
+        "sentence": "A man and his son fishing off a pier",
+        "tags": [
+            "man",
+            "son",
+            "fishing",
+            "pier"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/289.jpg"
+    },
+    {
+        "sentence": "A fisherman sailing his boat",
+        "tags": [
+            "fisherman",
+            "boat",
+            "sailing"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/290.jpg"
+    },
+    {
+        "sentence": "A fisherman catches a fish",
+        "tags": [
+            "fisherman",
+            "fish"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/291.jpg"
+    },
+    {
+        "sentence": "A scuba diver swims through a colorful reef",
+        "tags": [
+            "scuba diver",
+            "colorful reef",
+            "swims"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/292.jpg"
+    },
+    {
+        "sentence": "People in a hotair balloon in awe at the scenery",
+        "tags": [
+            "hotair balloon",
+            "scenery",
+            "people"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/293.jpg"
+    },
+    {
+        "sentence": "A man in a parachute lands on the ground",
+        "tags": [
+            "man",
+            "parachute",
+            "ground"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/294.jpg"
+    },
+    {
+        "sentence": "A soccer player kicks a goal",
+        "tags": [
+            "soccer player",
+            "goal",
+            "kicks"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/295.jpg"
+    },
+    {
+        "sentence": "A tennis player holds his arms up in triumph after a winning shot",
+        "tags": [
+            "tennis player",
+            "arms up",
+            "triumph",
+            "winning shot"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/296.jpg"
+    },
+    {
+        "sentence": "A sprinter gets first at the finish line",
+        "tags": [
+            "sprinter",
+            "first",
+            "finish line"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/297.jpg"
+    },
+    {
+        "sentence": "An man doing archery hits the bullseye",
+        "tags": [
+            "man",
+            "archery",
+            "bullseye"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/298.jpg"
+    },
+    {
+        "sentence": "A man concentrating while he throws a dart",
+        "tags": [
+            "man",
+            "dart",
+            "concentrating"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/299.jpg"
+    },
+    {
+        "sentence": "A group of friends enjoying themselves at a pub",
+        "tags": [
+            "friends",
+            "pub"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/300.jpg"
+    },
+    {
+        "sentence": "An angry man who is a red head",
+        "tags": [
+            "angry",
+            "man",
+            "red head"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/301.jpg"
+    },
+    {
+        "sentence": "A fitness instructor leading a virtual workout class from a home studio",
+        "tags": [
+            "fitness instructor",
+            "virtual workout",
+            "home studio",
+            "exercise"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/302.jpg"
+    },
+    {
+        "sentence": "A family building a sandcastle together on a sunny beach",
+        "tags": [
+            "family",
+            "sandcastle",
+            "beach",
+            "sunny",
+            "fun"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/303.jpg"
+    },
+    {
+        "sentence": "A gardener watering plants in a vibrant greenhouse",
+        "tags": [
+            "gardener",
+            "watering",
+            "plants",
+            "greenhouse",
+            "vibrant"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/304.jpg"
+    },
+    {
+        "sentence": "A child dressed as an astronaut playing with a cardboard spaceship",
+        "tags": [
+            "child",
+            "astronaut",
+            "cardboard spaceship",
+            "imagination",
+            "play"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/305.jpg"
+    },
+    {
+        "sentence": "A baker pulling a tray of freshly baked bread from an oven",
+        "tags": [
+            "baker",
+            "fresh bread",
+            "oven",
+            "baking",
+            "kitchen"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/306.jpg"
+    },
+    {
+        "sentence": "A couple enjoying a romantic picnic under a cherry blossom tree",
+        "tags": [
+            "couple",
+            "romantic",
+            "picnic",
+            "cherry blossom",
+            "spring"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/307.jpg"
+    },
+    {
+        "sentence": "A young girl with pigtails blowing dandelion seeds in a meadow",
+        "tags": [
+            "young girl",
+            "pigtails",
+            "blowing dandelions",
+            "meadow",
+            "nature"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/308.jpg"
+    },
+    {
+        "sentence": "A team of engineers discussing blueprints at a construction site",
+        "tags": [
+            "engineers",
+            "discussion",
+            "blueprints",
+            "construction site",
+            "teamwork"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/309.jpg"
+    },
+    {
+        "sentence": "A couple canoeing on a tranquil lake during a colorful sunset",
+        "tags": [
+            "couple",
+            "canoeing",
+            "lake",
+            "sunset",
+            "tranquil"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/310.jpg"
+    },
+    {
+        "sentence": "A diligent student taking notes while watching an online lecture at home",
+        "tags": [
+            "student",
+            "online lecture",
+            "taking notes",
+            "home",
+            "study"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/311.jpg"
+    },
+    {
+        "sentence": "A child building a rocket ship with colorful building blocks",
+        "tags": [
+            "child",
+            "rocket ship",
+            "building blocks",
+            "creativity",
+            "play"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/312.jpg"
+    },
+    {
+        "sentence": "A family gathered around a campfire roasting marshmallows at a campsite",
+        "tags": [
+            "family",
+            "campfire",
+            "roasting marshmallows",
+            "campsite",
+            "outdoors"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/313.jpg"
+    },
+    {
+        "sentence": "A woman practicing mindfulness meditation on a yoga mat in a peaceful garden",
+        "tags": [
+            "woman",
+            "mindfulness",
+            "meditation",
+            "yoga mat",
+            "garden"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/314.jpg"
+    },
+    {
+        "sentence": "A chef slicing fresh vegetables on a cutting board in a professional kitchen",
+        "tags": [
+            "chef",
+            "slicing",
+            "vegetables",
+            "cutting board",
+            "kitchen"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/315.jpg"
+    },
+    {
+        "sentence": "A couple painting a room with bright colors and laughing",
+        "tags": [
+            "couple",
+            "painting",
+            "room",
+            "bright colors",
+            "fun"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/316.jpg"
+    },
+    {
+        "sentence": "A young boy dressed as a pirate searching for treasure in a backyard",
+        "tags": [
+            "young boy",
+            "pirate costume",
+            "treasure hunt",
+            "backyard",
+            "imagination"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/317.jpg"
+    },
+    {
+        "sentence": "A woman hiking through a dense forest trail in autumn",
+        "tags": [
+            "woman",
+            "hiking",
+            "forest trail",
+            "autumn",
+            "nature"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/318.jpg"
+    },
+    {
+        "sentence": "A barista serving freshly brewed coffee in an artisanal cafe",
+        "tags": [
+            "barista",
+            "coffee",
+            "artisanal cafe",
+            "serving",
+            "coffee shop"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/319.jpg"
+    },
+    {
+        "sentence": "A toddler building a sandcastle on a beach with a pail and shovel",
+        "tags": [
+            "toddler",
+            "sandcastle",
+            "beach",
+            "pail",
+            "shovel"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/320.jpg"
+    },
+    {
+        "sentence": "A yoga class practicing poses at sunrise on a rooftop",
+        "tags": [
+            "yoga class",
+            "yoga poses",
+            "sunrise",
+            "rooftop",
+            "exercise"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/321.jpg"
+    },
+    {
+        "sentence": "An artist painting a scenic landscape on an easel by a lakeside",
+        "tags": [
+            "artist",
+            "painting",
+            "scenic",
+            "landscape",
+            "lakeside"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/322.jpg"
+    },
+    {
+        "sentence": "A group of friends playing board games in a cozy living room",
+        "tags": [
+            "friends",
+            "board games",
+            "cozy",
+            "living room",
+            "fun"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/323.jpg"
+    },
+    {
+        "sentence": "A toddler discovering how to play the piano keys for the first time",
+        "tags": [
+            "toddler",
+            "piano",
+            "playing",
+            "discovery",
+            "music"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/324.jpg"
+    },
+    {
+        "sentence": "A soccer coach giving tips to a young team on a practice field",
+        "tags": [
+            "soccer coach",
+            "young team",
+            "practice field",
+            "sports",
+            "training"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/325.jpg"
+    },
+    {
+        "sentence": "A chef flamb\u00e9ing a dish in front of diners at a restaurant",
+        "tags": [
+            "chef",
+            "flamb\u00e9",
+            "dish",
+            "diners",
+            "restaurant"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/326.jpg"
+    },
+    {
+        "sentence": "An artist sketching in a notebook while sitting at an outdoor caf\u00e9",
+        "tags": [
+            "artist",
+            "sketching",
+            "notebook",
+            "outdoor caf\u00e9",
+            "creative"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/327.jpg"
+    },
+    {
+        "sentence": "A scientist in a lab coat examining samples under a microscope",
+        "tags": [
+            "scientist",
+            "lab coat",
+            "microscope",
+            "samples",
+            "research"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/328.jpg"
+    },
+    {
+        "sentence": "A boy flying a kite at the beach with the ocean in the background",
+        "tags": [
+            "boy",
+            "flying kite",
+            "beach",
+            "ocean",
+            "outdoor"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/329.jpg"
+    },
+    {
+        "sentence": "A family decorating a Christmas tree together in their living room",
+        "tags": [
+            "family",
+            "decorating",
+            "Christmas tree",
+            "living room",
+            "holiday"
+        ],
+        "sentencesrc": "openai",
+        "image": "stockimages/330.jpg"
+    },
+    {
+        "sentence": "A doctor reassuring a worried patient",
+        "tags": [
+            "doctor",
+            "patient",
+            "worried"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/331.jpg"
+    },
+    {
+        "sentence": "A worried doctor looking at a chart",
+        "tags": [
+            "doctor",
+            "chart",
+            "worried"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/332.jpg"
+    },
+    {
+        "sentence": "A sick patient on a drip in a hospital",
+        "tags": [
+            "sick",
+            "patient",
+            "drip",
+            "hospital"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/333.jpg"
+    },
+    {
+        "sentence": "A patient reading a book in a hospital while surrounded by flowers and gifts",
+        "tags": [
+            "patient",
+            "book",
+            "hospital",
+            "flowers",
+            "gifts"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/334.jpg"
+    },
+    {
+        "sentence": "A surgeon in a surgical gown and mask holding a scalpel about to begin an operation on a patient",
+        "tags": [
+            "surgeon",
+            "surgical gown",
+            "mask",
+            "scalpel",
+            "operation",
+            "patient"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/335.jpg"
+    },
+    {
+        "sentence": "A woman praying at a church",
+        "tags": [
+            "woman",
+            "praying",
+            "church"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/336.jpg"
+    },
+    {
+        "sentence": "A congration praying at a church",
+        "tags": [
+            "congregation",
+            "praying",
+            "church"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/337.jpg"
+    },
+    {
+        "sentence": "A minister preaching to his congregation in a church",
+        "tags": [
+            "minister",
+            "preaching",
+            "congregation",
+            "church"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/338.jpg"
+    },
+    {
+        "sentence": "Mourners at a cemetary seeing off a loved one",
+        "tags": [
+            "mourners",
+            "cemetery",
+            "loved one"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/339.jpg"
+    },
+    {
+        "sentence": "A cool man wearing sunglasses sitting on a motorcycle",
+        "tags": [
+            "man",
+            "sunglasses",
+            "motorcycle"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/340.jpg"
+    },
+    {
+        "sentence": "A cool man wearing sunglasses riding a motorcycle through a desert",
+        "tags": [
+            "cool",
+            "man",
+            "sunglasses",
+            "motorcycle",
+            "desert"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/341.jpg"
+    },
+    {
+        "sentence": "A congregation praying at a church",
+        "tags": [
+            "congregation",
+            "praying",
+            "church"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/342.jpg"
+    },
+    {
+        "sentence": "A british royal airforce pilot flying a spitfire aeroplane",
+        "tags": [
+            "british",
+            "royal airforce",
+            "pilot",
+            "spitfire",
+            "aeroplane"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/343.jpg"
+    },
+    {
+        "sentence": "A beautiful young woman eating a sausage",
+        "tags": [
+            "woman",
+            "sausage",
+            "beautiful",
+            "young"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/344.jpg"
+    },
+    {
+        "sentence": "A beautiful young woman licking a popsicle",
+        "tags": [
+            "woman",
+            "popsicle",
+            "beautiful",
+            "young"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/345.jpg"
+    },
+    {
+        "sentence": "A couple climbing the pyramids of giza",
+        "tags": [
+            "couple",
+            "climbing",
+            "pyramids of Giza"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/346.jpg"
+    },
+    {
+        "sentence": "A traditional frenchman selling baguettes at his bakery",
+        "tags": [
+            "frenchman",
+            "baguettes",
+            "bakery"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/347.jpg"
+    },
+    {
+        "sentence": "Indian couple celebrating a festival",
+        "tags": [
+            "Indian",
+            "couple",
+            "festival"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/348.jpg"
+    },
+    {
+        "sentence": "Bridesmaids throwing confetti at a wedding",
+        "tags": [
+            "bridesmaids",
+            "confetti",
+            "wedding"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/349.jpg"
+    },
+    {
+        "sentence": "Bridesmaids catch a boquet thrown up by the bride",
+        "tags": [
+            "bridesmaids",
+            "boquet",
+            "bride"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/350.jpg"
+    },
+    {
+        "sentence": "A beautiful young woman doing a yoga pose",
+        "tags": [
+            "woman",
+            "yoga",
+            "pose"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/351.jpg"
+    },
+    {
+        "sentence": "A group of people doing aerobics dressed in eighties fashion",
+        "tags": [
+            "aerobics",
+            "eighties fashion",
+            "group of people"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/352.jpg"
+    },
+    {
+        "sentence": "A group of kids trickatreating during halloween",
+        "tags": [
+            "kids",
+            "trickatreating",
+            "halloween"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/353.jpg"
+    },
+    {
+        "sentence": "A male golfer on a golf course celebrating a hole in one",
+        "tags": [
+            "male",
+            "golfer",
+            "golf course",
+            "hole in one",
+            "celebrating"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/354.jpg"
+    },
+    {
+        "sentence": "A male golfer putting on a green",
+        "tags": [
+            "golfer",
+            "putting",
+            "green",
+            "male"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/355.jpg"
+    },
+    {
+        "sentence": "A group of golfers waiting for a player to tee off",
+        "tags": [
+            "golfers",
+            "player",
+            "tee off"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/356.jpg"
+    },
+    {
+        "sentence": "A person looking at his computer screen worried about cyber security",
+        "tags": [
+            "person",
+            "computer screen",
+            "cyber security",
+            "worried"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/357.jpg"
+    },
+    {
+        "sentence": "A plumber connecting a pipe",
+        "tags": [
+            "plumber",
+            "pipe"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/358.jpg"
+    },
+    {
+        "sentence": "An electrician fixing an electrical wire",
+        "tags": [
+            "electrician",
+            "electrical wire"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/359.jpg"
+    },
+    {
+        "sentence": "A cheerful female cleaner dusting a television",
+        "tags": [
+            "cleaner",
+            "dusting",
+            "television",
+            "female"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/360.jpg"
+    },
+    {
+        "sentence": "A child finding an easter egg in his back yard",
+        "tags": [
+            "child",
+            "easter egg",
+            "back yard"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/361.jpg"
+    },
+    {
+        "sentence": "A boyfriend handing his girlfriend a box of chocolates in the shape of a heart on valentines day",
+        "tags": [
+            "boyfriend",
+            "girlfriend",
+            "chocolates",
+            "heart",
+            "valentines day"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/362.jpg"
+    },
+    {
+        "sentence": "A lady giving a beautiful young woman a massage",
+        "tags": [
+            "lady",
+            "massage",
+            "beautiful",
+            "young",
+            "woman"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/363.jpg"
+    },
+    {
+        "sentence": "A female bank teller helping a customer",
+        "tags": [
+            "female",
+            "bank teller",
+            "customer"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/364.jpg"
+    },
+    {
+        "sentence": "A lady eating an apple",
+        "tags": [
+            "lady",
+            "eating",
+            "apple"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/365.jpg"
+    },
+    {
+        "sentence": "A man eating an orange",
+        "tags": [
+            "man",
+            "eating",
+            "orange"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/366.jpg"
+    },
+    {
+        "sentence": "A fruit seller in an apron selling his fruit",
+        "tags": [
+            "fruit seller",
+            "apron",
+            "fruit"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/367.jpg"
+    },
+    {
+        "sentence": "A family sitting in a caravan having a meal",
+        "tags": [
+            "family",
+            "caravan",
+            "meal"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/368.jpg"
+    },
+    {
+        "sentence": "A cool young man driving a sportscar with a beautiful young woman as his passenger",
+        "tags": [
+            "young man",
+            "sportscar",
+            "beautiful young woman",
+            "driving",
+            "passenger"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/369.jpg"
+    },
+    {
+        "sentence": "A soccer player scoring a goal",
+        "tags": [
+            "soccer player",
+            "goal"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/370.jpg"
+    },
+    {
+        "sentence": "A group of people watching a fireworks display",
+        "tags": [
+            "people",
+            "fireworks",
+            "display"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/371.jpg"
+    },
+    {
+        "sentence": "A male real estate agent selling a house",
+        "tags": [
+            "male",
+            "real estate agent",
+            "house"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/372.jpg"
+    },
+    {
+        "sentence": "A man driving an ambulance",
+        "tags": [
+            "man",
+            "driving",
+            "ambulance"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/373.jpg"
+    },
+    {
+        "sentence": "A man praying to god",
+        "tags": [
+            "man",
+            "praying",
+            "god"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/374.jpg"
+    },
+    {
+        "sentence": "A female tourist in New York city",
+        "tags": [
+            "female",
+            "tourist",
+            "New York city"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/375.jpg"
+    },
+    {
+        "sentence": "Two men in a judo tournament",
+        "tags": [
+            "judo",
+            "tournament",
+            "men"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/376.jpg"
+    },
+    {
+        "sentence": "Two women playing tennis",
+        "tags": [
+            "women",
+            "tennis"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/377.jpg"
+    },
+    {
+        "sentence": "A female teacher writing on a blackboard",
+        "tags": [
+            "teacher",
+            "female",
+            "blackboard"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/378.jpg"
+    },
+    {
+        "sentence": "A female teacher scolding a naughty student",
+        "tags": [
+            "teacher",
+            "female",
+            "student",
+            "naughty"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/379.jpg"
+    },
+    {
+        "sentence": "A mother scolding her naughty son",
+        "tags": [
+            "mother",
+            "son",
+            "naughty"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/380.jpg"
+    },
+    {
+        "sentence": "A male lecturer in front of a group of students in a lecture theatre",
+        "tags": [
+            "male",
+            "lecturer",
+            "students",
+            "lecture theatre"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/381.jpg"
+    },
+    {
+        "sentence": "Tourists standing in front of the house of commons in London",
+        "tags": [
+            "Tourists",
+            "House of Commons",
+            "London"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/382.jpg"
+    },
+    {
+        "sentence": "Tourists watching kangaroos",
+        "tags": [
+            "tourists",
+            "kangaroos"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/383.jpg"
+    },
+    {
+        "sentence": "A young boy holding a koala",
+        "tags": [
+            "boy",
+            "koala"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/384.jpg"
+    },
+    {
+        "sentence": "A tourist taking a photo of a koala",
+        "tags": [
+            "tourist",
+            "photo",
+            "koala"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/385.jpg"
+    },
+    {
+        "sentence": "A cat driking milk from a bowl",
+        "tags": [
+            "cat",
+            "milk",
+            "bowl"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/386.jpg"
+    },
+    {
+        "sentence": "A son giving his father a gift on fathers day",
+        "tags": [
+            "son",
+            "father",
+            "gift",
+            "fathers day"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/387.jpg"
+    },
+    {
+        "sentence": "A cute baby in a high chair",
+        "tags": [
+            "cute",
+            "baby",
+            "high chair"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/388.jpg"
+    },
+    {
+        "sentence": "A cute baby holding a rattle",
+        "tags": [
+            "cute",
+            "baby",
+            "rattle"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/389.jpg"
+    },
+    {
+        "sentence": "A cute baby in a playpen",
+        "tags": [
+            "cute",
+            "baby",
+            "playpen"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/390.jpg"
+    },
+    {
+        "sentence": "An obese, ugly woman",
+        "tags": [
+            "obese",
+            "ugly",
+            "woman"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/391.jpg"
+    },
+    {
+        "sentence": "An obese, ugly woman eating cake",
+        "tags": [
+            "obese",
+            "ugly",
+            "woman",
+            "cake"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/392.jpg"
+    },
+    {
+        "sentence": "An obese man",
+        "tags": [
+            "obese",
+            "man"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/393.jpg"
+    },
+    {
+        "sentence": "A scary old man",
+        "tags": [
+            "scary",
+            "old",
+            "man"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/394.jpg"
+    },
+    {
+        "sentence": "A wizard riding a white horse",
+        "tags": [
+            "wizard",
+            "white horse"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/395.jpg"
+    },
+    {
+        "sentence": "A witch stirring a cauldron",
+        "tags": [
+            "witch",
+            "cauldron"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/396.jpg"
+    },
+    {
+        "sentence": "A witch riding a broomstick",
+        "tags": [
+            "witch",
+            "broomstick"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/397.jpg"
+    },
+    {
+        "sentence": "A witch casting a spell",
+        "tags": [
+            "witch",
+            "spell"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/398.jpg"
+    },
+    {
+        "sentence": "A ghost in a haunted house",
+        "tags": [
+            "ghost",
+            "haunted house"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/399.jpg"
+    },
+    {
+        "sentence": "A lady eating spaghetti",
+        "tags": [
+            "lady",
+            "eating",
+            "spaghetti"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/400.jpg"
+    },
+    {
+        "sentence": "A family sitting down at dinner eating a pizza",
+        "tags": [
+            "family",
+            "dinner",
+            "pizza"
+        ],
+        "sentencesrc": "samples",
+        "image": "stockimages/401.jpg"
+    }
+]
