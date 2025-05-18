@@ -1,18 +1,10 @@
-This is a searchable image gallery that is fully javascript and requires no installation. It is based upon https://github.com/DelLobos/searchable-image-gallery
-This sample gallery has over 400 stock images generated with grok. For example the typical stock images description like a 'a barrista making a pattern of a leaf in cup of coffee'. I have made these images public domain so you can do whatever you want with them.
+This is a searchable image gallery that is 100% javascript and therefore requires no installation. Just upload the repository to your server and it should work. The repository is based upon [searchable-image-gallery](https://github.com/DelLobos/searchable-image-gallery). The sample gallery in this repository has over 400 stock images I generated using grok. For example it'll have a typical stock image like a 'a barrista making a pattern of a leaf in cup of coffee'. Ive made these images public domain so you can use them how you want.
 
-The way it works is that loads stockimages.json which holds all the image information including the sentence describing the image and also the image tags. You can modify this json file if you wish to create your own gallery.
 
-Check ou the  [demo](https://forthtemple.com/stockimages/)
+The way the gallery works is that loads stockimages.json that is located in the root. It holds all the image information including the sentence describing the image and also the image tags. You can modify this json file if you wish to make your own gallery.
 
-searchable fully javascript 
-can just upload reposityory and it will work - no installation
-generated stock image using grok
- standard stock image type eg a barista making a coffee
- 
--images are public domain so can use anywhere - i made them with grok
 
--in root is stockimages.json which holds all image information including the sentence used to generate the iamge and tags
-  -can modify is json file if want to create your own gallery
+Check out the [demo](https://forthtemple.com/stockimages/)
+
 
 
