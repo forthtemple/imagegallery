@@ -144,68 +144,6 @@ const generateGalleryIcon = (images) => {
 	return html;
 }
 
-//-------------------- Dropdowns ----------------------//
-/*function addDropdownFilters(imagesArray) {
-	createDropdown("Type", 0, imagesArray);
-	createDropdown("Sub-Type", 1, imagesArray);
-	addDropdownEvents();
-}
-
-function createDropdown(title, index, imagesArray) {
-	let currentList = [];
-	imagesArray.forEach(image => {
-		if (image[index] !== "") {
-			currentList.push(image[index]);
-		}
-	});
-	currentList.sort();
-	let newList = new Set(currentList);
-	createDropdownList(newList, title, index)
-}
-
-function createDropdownList(newList, title) {
-	const filterContainer = document.querySelector(".search-gallery__search__dropdowns");
-	let html = `<select class="search-gallery__search__dropdowns__filter" name="${title}"><option value="${title}">${title}</option>`;
-	newList.forEach(item => {
-			html += `<option value="${item}">${item}</option>`;
-	});
-	html += `</select>`;
-	filterContainer.insertAdjacentHTML('beforeend', html);
-}
-
-function addDropdownEvents() {
-	const dropdowns = Array.prototype.slice.call(document.querySelectorAll('.search-gallery__search__dropdowns__filter'));
-	dropdowns.forEach((dropdown) => {
-		dropdown.addEventListener("change", function () {
-			showLoader(true);
-			checkDropdownValues(dropdowns);
-		});
-	})
-}
-
-function checkDropdownValues (dropdowns) {
-	let valueArray = [];
-	dropdowns.forEach(dropdown => {
-		if (dropdown.selectedIndex !== 0) {
-			valueArray.push(dropdown.value.toLowerCase());
-		}
-	});
-	searchImageArray(valueArray, true);
-}
-
-const checkItemForAllDropdownValues = (item, searchTermArray) => {
-	let numToBeFound = searchTermArray.length;
-	let numFound = 0;
-	searchTermArray.forEach(dropValue => {
-		for (let i = 0; i < item.length; i++) {
-			if (item[i].toLowerCase() == dropValue) {
-				numFound++;
-				break;
-			}
-		}
-	})
-	if (numToBeFound === numFound) { return true; } else { return false; }
-}*/
 
 //-------------------- Search ----------------------//
 function addSearchListener() {
@@ -268,17 +206,18 @@ const findMatch = (item, searchTermArray, searchDropdowns) => {
 	itemlist=[];
 	itemlist.push(item['sentence']);
 	for (tag in item['tags'])
-		itemlist.push(tag);
+		itemlist.push(item['tags'][tag]);
 	//foundimages={};
 	for (let i = 0; i < itemlist.length; i++) {
 
-		/*if (searchDropdowns) {
-			if (checkItemForAllDropdownValues(itemlist, searchTermArray))
-				matchFound++;
-		}
-		else*/
 		for (j=0; j<searchTermArray.length; j++) {
-			if (itemlist[i].toLowerCase().indexOf(searchTermArray[j]) !== -1) {//} && !searchDropdowns) {
+			//console.log('mmm'+itemlist[i].toLowerCase()+' '+searchTermArray[j].toLowerCase());
+			if (itemlist[i].toLowerCase()==searchTermArray[j].toLowerCase() ) {//} && !searchDropdowns) {
+				matchFound++;
+			}
+		}		
+		for (j=0; j<searchTermArray.length; j++) {
+			if (itemlist[i].toLowerCase().indexOf(searchTermArray[j].toLowerCase()) !== -1) {//} && !searchDropdowns) {
 				matchFound++;
 				/*keysi=Object.keys(foundimages);
 				if (!(i in keysi))
