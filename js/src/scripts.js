@@ -3,8 +3,7 @@ function ready(a) {
 }
 
 ready(function () {
-	// *************** uncomment ajax if you want to us CSV file instead of the array ***************
-	// ajax_getImageData();
+
 	/*
 	[
     {
@@ -37,57 +36,28 @@ ready(function () {
 		showLoader(false);
 	}) 
 	.catch(error => console.error('Failed to fetch data:', error)); 
-	 // $.getJSON("images/stockimages.json", function(json) {
-	  //  fr = new FileReader();
-      //  fr.onload = receivedText;
-      //  fr.readAsText(".images/stockimages.json");
-      //  json= require(".images/stockimages.json"); 
-		
 
-    //});
 });
-
-
-    /*
-
-function receivedText(e) {
-        let json = e.target.result;
-   	    console.log(json); // this will show the info it in firebug console
-        imagesArray = JSON.parse(json); 
-		createGallery(imagesArray);
-		addDropdownFilters(imagesArray);
-		addSearchListener();
-		setResetButton();
-		addModalListeners();
-		showLoader(false);
-}*/
 
 const searchGallery = document.getElementById('searchGallery');
 const searchInput = document.getElementById('searchInput');
 const searchGalModal = document.getElementById("searchGalModal");
-// *************** Change to where your images are located ***************
-//const imagePath = 'images/'; //https://via.placeholder.com/';
+
 let delay = 0;
 let maximages=4;
-
-// *************** uncomment if using CSV file ***************
-// let imagesArray
 
 //-------------------- Gallery Creation ----------------------//
 function createGallery(imagesArray) {
 	searchGallery.innerHTML = '';
+	// On startup pick a random image
 	pick=Math.floor(Math.random() * imagesArray.length);
-	//for (i=0; i<imagesArray.length; i++) {
-		//imagesArray.forEach(function (e) {
-		//if (i<maximages) {
+
 	e=imagesArray[pick];
 	oldsentence=e['sentence'];
 	e['sentence']=e['sentence']+'  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Random image chosen</b>';
 	searchGallery.insertAdjacentHTML('beforeend', createImageElement(e));
 	e['sentence']=oldsentence;
-		//}
-		//});
-	//}
+
 	showLoader(false);
 	delay = 0;
 }
@@ -95,17 +65,12 @@ function createGallery(imagesArray) {
 const createImageElement = (item) => {
 	// Item indexes are based on their column location in the CSV file
 	const html = generateImageHTML(item['image'].split(","), item['sentence'], item['tags']);//, item[3], item[4].split(","));
-	//const html = generateImageHTML(item[0].split(","), item[1], item[2].split(","));//, item[3], item[4].split(","));
 	delay += 100;
 	return html;
 }
 
-//function generateImageHTML(type, subType, title, description, images) {
+// Actually create the HTML for a given stock image
 function generateImageHTML(images, desc, tags) {
-	//		<!--<div class="search-gallery__gallery__element__title"><h3>${title}</h3></div>-->
-	//			<!--${returnType(type, 'primary')}
-	//			${returnType(subType, 'secondary')}-->
-	//onclick="generateModal('${tags}', '${desc}', '${images}')"
 	return `
 		<div  class="search-gallery__gallery__element" style="animation-delay: ${delay}ms">
 			${generateGalleryIcon(images)}
@@ -118,6 +83,7 @@ function generateImageHTML(images, desc, tags) {
 	`;
 }
 
+// Generate the tags for the stock image
 const returnTags = (tags) => {//}, className) => {
 	//console.log(type);
 	var str='';
@@ -160,10 +126,10 @@ function getUserInput() {
 function searchImageArray(searchTermArray){//}, searchDropdowns = false) {
 	searchGallery.innerHTML = '';
 	let results = false;
-	
+
+	// List search in order of the most matches
 	foundimages={};
 	for (k=0; k<imagesArray.length; k++) {
-	//imagesArray.forEach(item => {
 		item=imagesArray[k];
 		const somethingFound = findMatch(item, searchTermArray);//, searchDropdowns);
 		if(somethingFound>0) {
@@ -180,6 +146,7 @@ function searchImageArray(searchTermArray){//}, searchDropdowns = false) {
 	items.sort(function(first, second) {
 		return second[1] - first[1];
 	});
+	// Only list maximages amount of images
 	cnt=0;
 	for (ind of items) {
 		//console.log("in"+ind[0]);
@@ -207,84 +174,31 @@ const findMatch = (item, searchTermArray, searchDropdowns) => {
 	itemlist.push(item['sentence']);
 	for (tag in item['tags'])
 		itemlist.push(item['tags'][tag]);
-	//foundimages={};
+	// If get count of matches and submatches for the stock image 'item' given the search terms entered
 	for (let i = 0; i < itemlist.length; i++) {
 
+		// Count exact matches
 		for (j=0; j<searchTermArray.length; j++) {
 			//console.log('mmm'+itemlist[i].toLowerCase()+' '+searchTermArray[j].toLowerCase());
 			if (itemlist[i].toLowerCase()==searchTermArray[j].toLowerCase() ) {//} && !searchDropdowns) {
 				matchFound++;
 			}
-		}		
+		}
+		// Count submatches
 		for (j=0; j<searchTermArray.length; j++) {
 			if (itemlist[i].toLowerCase().indexOf(searchTermArray[j].toLowerCase()) !== -1) {//} && !searchDropdowns) {
 				matchFound++;
-				/*keysi=Object.keys(foundimages);
-				if (!(i in keysi))
-					foundimages[i]=1;
-				else
-					foundimages[i]++;*/
-				//break;
 			}
 		}
 		
 	}
-	/*var items = Object.keys(foundimages).map(function(key) {
-		return [key, list[key]];
-	});
-	items.sort(function(first, second) {
-		return second[1] - first[1];
-	});*/
 
-	//Object.keys(
 	return matchFound;
 }
 
-//-------------------- Modal ----------------------//
-/*function generateModal(title, description, images) {
-	showModal();
-	searchGalModal.innerHTML = generateModalHTML(title, description, images.split(","));
-	addSlideshowControls(images.split(","));
-}
-
-const generateModalHTML = (title, description, images) => {
-	return `
-		<div class="search-gallery__modal__close" onClick="closeModal()">
-			<div class="search-gallery__modal__close__close-button">Close</div>
-		</div>
-		<span class="search-gallery__modal__title">${title}</span>
-		${generateSlideshowSlides(images)}
-		<div class="search-gallery__modal__description">${description}</div>
-	`;
-}
-
-function addModalListeners() {
-	document.addEventListener('mouseup', function(e) {
-		if (!searchGalModal.contains(e.target)) {
-			closeModal();
-		}
-	});
-	document.addEventListener('keydown', (event) => {
-		if (event.key === 'Escape') {
-			closeModal();
-		}
-	  })
-}
-
-
-function closeModal() {
-	searchGalModal.classList.remove("showModal");
-	searchGalModal.classList.add("hidden");
-}
-
-function showModal() {
-	searchGalModal.innerHTML = '';
-	searchGalModal.classList.remove("hidden");
-	searchGalModal.classList.add("showModal");
-}*/
 
 //-------------------- Slideshow -----------------------//
-
+// These are redundant
 const generateSlideshowSlides = (images) => {
 	let slideshowHTML = `<div class="search-gallery__modal__slideshow">${generateSlideshowControls(images)}`;
 	images.forEach((image, i) => {
